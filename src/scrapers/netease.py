@@ -65,13 +65,13 @@ class NeteaseScraper(BaseScraper):
                     company="网易",
                     department=item.get("firstDepName", ""),
                     location=location,
-                    experience=item.get("reqWorkYearsName", ""),
-                    education=item.get("reqEducationName", ""),
-                    description=item.get("description", ""),
-                    requirements=item.get("requirement", ""),
-                    url=item.get("beeUrl", f"https://hr.163.com/job-detail.html?id={item.get('id', '')}"),
-                    publish_date=item.get("updateTime", ""),
-                    category=item.get("firstPostTypeName", ""),
+                    experience=item.get("reqWorkYearsName") or "",
+                    education=item.get("reqEducationName") or "",
+                    description=item.get("description") or "",
+                    requirements=item.get("requirement") or "",
+                    url=(item.get("beeUrl") or f"https://hr.163.com/job-detail.html?id={item.get('id', '')}"),
+                    publish_date=item.get("updateTime") or "",
+                    category=item.get("firstPostTypeName") or "",
                 )
                 jobs.append(job)
 

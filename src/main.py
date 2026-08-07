@@ -83,6 +83,23 @@ STANDALONE_SCRAPERS = {
     "jd": ("src.scrapers.jd", "scrape_jd"),
     "didi": ("src.scrapers.didi", "scrape_didi"),
     "huawei": ("src.scrapers.huawei", "scrape_huawei"),
+    # Tier 1: AI model labs & games (feishu recruitment SaaS shared module)
+    "zhipu": ("src.scrapers.zhipu", "scrape_zhipu"),
+    "minimax": ("src.scrapers.minimax", "scrape_minimax"),
+    "sensetime": ("src.scrapers.sensetime", "scrape_sensetime"),
+    "lilith": ("src.scrapers.lilith", "scrape_lilith"),
+    "papergames": ("src.scrapers.papergames", "scrape_papergames"),
+    "netease_game": ("src.scrapers.netease_game", "scrape_netease_game"),
+    "ctrip": ("src.scrapers.ctrip", "scrape_ctrip"),
+    # Tier 1: 扩展 AI 模型层 / 互联网垂类
+    "baichuan": ("src.scrapers.baichuan", "scrape_baichuan"),
+    "modelbest": ("src.scrapers.modelbest", "scrape_modelbest"),
+    "lingyi": ("src.scrapers.lingyi", "scrape_lingyi"),
+    "poizon": ("src.scrapers.poizon", "scrape_poizon"),
+    "iflytek": ("src.scrapers.iflytek", "scrape_iflytek"),
+    "oppo": ("src.scrapers.oppo", "scrape_oppo"),
+    "xiaomi": ("src.scrapers.xiaomi", "scrape_xiaomi"),
+    "vivo": ("src.scrapers.vivo", "scrape_vivo"),
 }
 
 CITIES = ["北京", "上海", "杭州", "深圳", "广州", "成都", "武汉", "南京"]

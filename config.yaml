@@ -89,6 +89,70 @@ platforms:
     tier: 1
     name: "华为"
 
+  # Tier 1: AI 模型层 / 垂类知名企业（飞书招聘 SaaS 共用模块）
+  zhipu:
+    enabled: true
+    tier: 1
+    name: "智谱"
+  minimax:
+    enabled: true
+    tier: 1
+    name: "MiniMax"
+  sensetime:
+    enabled: true
+    tier: 1
+    name: "商汤"
+  lilith:
+    enabled: true
+    tier: 1
+    name: "莉莉丝"
+  papergames:
+    enabled: true
+    tier: 1
+    name: "叠纸"
+  netease_game:
+    enabled: true
+    tier: 1
+    name: "网易游戏"
+  ctrip:
+    enabled: true
+    tier: 1
+    name: "携程"
+
+  # Tier 1: 扩展第二批次 - AI 模型层 / 互联网垂类 / 终端大厂
+  baichuan:
+    enabled: true
+    tier: 1
+    name: "百川智能"
+  modelbest:
+    enabled: true
+    tier: 1
+    name: "面壁智能"
+  lingyi:
+    enabled: true
+    tier: 1
+    name: "零一万物"
+  poizon:
+    enabled: true
+    tier: 1
+    name: "得物"
+  iflytek:
+    enabled: true
+    tier: 1
+    name: "科大讯飞"
+  oppo:
+    enabled: true
+    tier: 1
+    name: "OPPO"
+  xiaomi:
+    enabled: true
+    tier: 1
+    name: "小米"
+  vivo:
+    enabled: true
+    tier: 1
+    name: "vivo"
+
   # Tier 2: 第三方招聘平台（已升级为 Playwright）
   boss:
     enabled: false
