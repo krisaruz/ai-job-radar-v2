@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-08-26 02:41 | 岗位总数: **370**
+> 更新时间: 2026-08-26 09:51 | 岗位总数: **376**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 96 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 110 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 98 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 113 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 81 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 83 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 84 |
 
 ## 各公司岗位
 
@@ -95,11 +95,11 @@ _Agent评测 5 / AI/Agent产品 2_
 | [模型标注-海外搜索评测](https://job.xiaohongshu.com/social/position/19239) | Agent评测 | 杭州 | 模型标注 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
 | [【急聘】AI Agent 产品研发工程师](https://job.xiaohongshu.com/social/position/16393) | AI/Agent产品 | 北京 | 客户端开发 |
-| [职能Domian Agent产品经理](https://job.xiaohongshu.com/social/position/21398) | AI/Agent产品 | 上海 | 产品经理 |
+| [职能Domain Agent产品经理](https://job.xiaohongshu.com/social/position/21398) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [快手](jobs/快手.md)（22 个岗位）
+### [快手](jobs/快手.md)（23 个岗位）
 
-_Agent评测 15 / 大模型/AI测试 3 / 测试开发(AI方向) 2 / AI/Agent产品 2_
+_Agent评测 15 / 测试开发(AI方向) 3 / 大模型/AI测试 3 / AI/Agent产品 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -108,6 +108,7 @@ _Agent评测 15 / 大模型/AI测试 3 / 测试开发(AI方向) 2 / AI/Agent产�
 | [模型测试分析工程师-【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/28785) | 大模型/AI测试 |  |  |
 | [商业化AI测试开发-【KSIB】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/28814) | 测试开发(AI方向) |  |  |
 | [服务端测试开发工程师-【商业化】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/30873) | 测试开发(AI方向) |  |  |
+| [测试开发工程师-【广告引擎算法】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/20646) | 测试开发(AI方向) |  |  |
 | [AI 评测平台产品经理（可灵AI专项）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/31740) | Agent评测 |  |  |
 | [AI美学评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/31115) | Agent评测 |  |  |
 | [Agent评测产品经理](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/27837) | Agent评测 |  |  |
@@ -126,9 +127,9 @@ _Agent评测 15 / 大模型/AI测试 3 / 测试开发(AI方向) 2 / AI/Agent产�
 | [AIGC产品经理-【商业化】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/27761) | AI/Agent产品 |  |  |
 | [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/detail/30282) | AI/Agent产品 |  |  |
 
-### [携程](jobs/携程.md)（176 个岗位）
+### [携程](jobs/携程.md)（181 个岗位）
 
-_测试开发(AI方向) 70 / 大模型/AI测试 60 / AI/Agent产品 35 / Agent评测 11_
+_测试开发(AI方向) 72 / 大模型/AI测试 62 / AI/Agent产品 36 / Agent评测 11_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -157,6 +158,8 @@ _测试开发(AI方向) 70 / 大模型/AI测试 60 / AI/Agent产品 35 / Agent�
 | [AI QA(MJ036437)](https://job.ctrip.com/#/experienced/job-detail/MJ036437) | 大模型/AI测试 | Shanghai | International Business |
 | [AI QA(MJ036437)](https://job.ctrip.com/#/experienced/job-detail/MJ036437) | 大模型/AI测试 | Shanghai | International Business |
 | [AI QA(MJ036437)](https://job.ctrip.com/#/experienced/job-detail/MJ036437) | 大模型/AI测试 | Shanghai | International Business |
+| [AI QA(MJ036437)](https://job.ctrip.com/#/experienced/job-detail/MJ036437) | 大模型/AI测试 | Shanghai | International Business |
+| [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
 | [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
 | [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
 | [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
@@ -227,6 +230,8 @@ _测试开发(AI方向) 70 / 大模型/AI测试 60 / AI/Agent产品 35 / Agent�
 | [资深测试开发工程师（推荐算法、内容审核方向）(MJ031739)](https://job.ctrip.com/#/experienced/job-detail/MJ031739) | 测试开发(AI方向) | Shanghai | Content |
 | [资深测试开发工程师（推荐算法、内容审核方向）(MJ031739)](https://job.ctrip.com/#/experienced/job-detail/MJ031739) | 测试开发(AI方向) | Shanghai | Content |
 | [资深测试开发工程师（推荐算法、内容审核方向）(MJ031739)](https://job.ctrip.com/#/experienced/job-detail/MJ031739) | 测试开发(AI方向) | Shanghai | Content |
+| [资深测试开发工程师（推荐算法、内容审核方向）(MJ031739)](https://job.ctrip.com/#/experienced/job-detail/MJ031739) | 测试开发(AI方向) | Shanghai | Content |
+| [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
@@ -273,6 +278,7 @@ _测试开发(AI方向) 70 / 大模型/AI测试 60 / AI/Agent产品 35 / Agent�
 | [AI评测专家（线路规划方向）(MJ035208)](https://job.ctrip.com/#/experienced/job-detail/MJ035208) | Agent评测 | Shanghai | Content |
 | [AI评测专家（线路规划方向）(MJ035208)](https://job.ctrip.com/#/experienced/job-detail/MJ035208) | Agent评测 | Shanghai | Content |
 | [AI评测专家（线路规划方向）(MJ035208)](https://job.ctrip.com/#/experienced/job-detail/MJ035208) | Agent评测 | Shanghai | Content |
+| [AI产品经理（对话类Agent）(MJ034429)](https://job.ctrip.com/#/experienced/job-detail/MJ034429) | AI/Agent产品 | Shanghai | Content |
 | [AI产品经理（对话类Agent）(MJ034429)](https://job.ctrip.com/#/experienced/job-detail/MJ034429) | AI/Agent产品 | Shanghai | Content |
 | [AI产品经理（对话类Agent）(MJ034429)](https://job.ctrip.com/#/experienced/job-detail/MJ034429) | AI/Agent产品 | Shanghai | Content |
 | [AI产品经理（对话类Agent）(MJ034429)](https://job.ctrip.com/#/experienced/job-detail/MJ034429) | AI/Agent产品 | Shanghai | Content |
@@ -542,7 +548,7 @@ _Agent评测 9 / 大模型/AI测试 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| Shanghai | 176 |
+| Shanghai | 181 |
 | 北京 | 75 |
 | 深圳 | 25 |
 | 杭州 | 14 |
@@ -555,4 +561,4 @@ _Agent评测 9 / 大模型/AI测试 1_
 
 ---
 
-*数据自动采集，更新于 2026-08-26 02:41。仅供求职参考。*
+*数据自动采集，更新于 2026-08-26 09:51。仅供求职参考。*
