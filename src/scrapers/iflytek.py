@@ -104,10 +104,12 @@ def scrape_iflytek() -> list[JobPosting]:
         if isinstance(publish_date, str) and publish_date.startswith("0001-"):
             publish_date = ""
 
-        # Beisen SPA doesn't expose direct detail URL — use search page filtered by title keyword
-        from urllib.parse import quote
-        search_kw = title.split("(")[0].strip()[:20] if title else ""
-        detail_url = f"https://iflytek.zhiye.com/jobs?keyword={quote(search_kw)}" if search_kw else "https://iflytek.zhiye.com/jobs"
+        # Detail URL captured from the real portal: clicking a job card's
+        # "查看详情" opens https://iflytek.zhiye.com/{pageId}/detail?jobAdId={Id}
+        # where Id is the GUID field (NOT the numeric JobAdId), and 4 is the
+        # social-recruit page id. Verified rendering the correct job standalone.
+        guid = str(it.get("Id") or "")
+        detail_url = f"https://iflytek.zhiye.com/4/detail?jobAdId={guid}" if guid else "https://iflytek.zhiye.com/jobs"
 
         jobs.append(JobPosting(
             job_id=jid,

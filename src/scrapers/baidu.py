@@ -99,6 +99,10 @@ class BaiduScraper(BaseScraper):
             r'window\.__INITIAL_DATA__\s*=\s*(\{.*?\})\s*(?:;|<)',
             re.DOTALL,
         )
+        # Detail route verified against SPA source (list chunk onClick):
+        # window.open("/jobs" + "/detail/" + recruitType + "/" + postId)
+        # recruitType must be the enum value "SOCIAL" (uppercase); lowercase
+        # "social" renders an empty shell page (no SSR detailData).
         for m_ssr in ssr_pattern.finditer(html):
             try:
                 data = json.loads(m_ssr.group(1))
@@ -108,7 +112,7 @@ class BaiduScraper(BaseScraper):
                     jid_match = re.search(r'（([A-Z]\d+)）', name)
                     post_id = post_info.get("postId", "")
                     job_id = jid_match.group(1) if jid_match else (post_id or name[:15])
-                    detail_url = f"https://talent.baidu.com/jobs/social-list?postId={post_id}" if post_id else ""
+                    detail_url = f"https://talent.baidu.com/jobs/detail/SOCIAL/{post_id}" if post_id else ""
                     job = JobPosting(
                         job_id=job_id,
                         platform="baidu",
@@ -152,13 +156,13 @@ class BaiduScraper(BaseScraper):
 
     def _dict_to_posting(self, d: dict) -> JobPosting | None:
         # Baidu SSR uses postId (UUID) for the SPA detail route. jobId is also UUID
-        # but the URL pattern requires postId. J-codes (e.g. J98291) in the title
-        # are display-only IDs and do NOT work as URL path segments.
+        # but the URL pattern requires postId.
         post_id = str(d.get("postId", d.get("id", "")))
         job_id = str(d.get("jobId", d.get("id", post_id)))
         if not post_id:
             return None
-        # Extract J-code from title for job_id field (more readable than UUID)
+        # J-codes (e.g. J98291) in the title are display-only IDs and do NOT
+        # work as URL path segments — the route needs the postId UUID.
         name = d.get("name", d.get("title", "")) or ""
         jcode_match = re.search(r'（([A-Z]\d+)）', name)
         display_jid = jcode_match.group(1) if jcode_match else post_id
@@ -172,6 +176,6 @@ class BaiduScraper(BaseScraper):
             experience=d.get("workYear", d.get("workYears", "")),
             education=d.get("education", ""),
             description=d.get("description", d.get("responsibility", d.get("workContent", ""))),
-            url=f"https://talent.baidu.com/jobs/social-list?postId={post_id}",
+            url=f"https://talent.baidu.com/jobs/detail/SOCIAL/{post_id}",
             publish_date=d.get("publishDate", d.get("updateDate", "")),
         )
