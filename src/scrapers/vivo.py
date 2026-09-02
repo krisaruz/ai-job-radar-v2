@@ -110,7 +110,10 @@ def scrape_vivo() -> list[JobPosting]:
 
         edu = it.get("degree_range_name") or ""
 
-        url = f"https://hr.vivo.com/jobs?id={jid}"
+        # Detail route captured from the live site: clicking a job card opens
+        # /job-detail?_irjid={id}. The old /jobs?id={id} format silently loads
+        # the plain list page (the id param is ignored).
+        url = f"https://hr.vivo.com/job-detail?_irjid={jid}"
 
         jobs.append(JobPosting(
             job_id=jid,

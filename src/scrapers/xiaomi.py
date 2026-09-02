@@ -101,8 +101,13 @@ def scrape_xiaomi() -> list[JobPosting]:
         if jtype is not None and jtype != 1:
             continue
 
-        # Build detail URL - xiaomi uses /job/view/<id>
-        url = f"https://hr.xiaomi.com/job/view/{jid}"
+        # Detail URL: the API returns the canonical mioffice detail URL in
+        # the `url` field (xiaomi.jobs.f.mioffice.cn/index/position/{jobPostId}/detail).
+        # The old hr.xiaomi.com/job/view/{id} route shows "没有您浏览的职位".
+        url = (it.get("url") or "").strip()
+        if not url:
+            job_post_id = it.get("jobPostId") or it.get("jobId") or ""
+            url = f"https://xiaomi.jobs.f.mioffice.cn/index/position/{job_post_id}/detail" if job_post_id else ""
 
         jobs.append(JobPosting(
             job_id=jid,

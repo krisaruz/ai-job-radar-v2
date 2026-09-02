@@ -84,11 +84,13 @@ def scrape_didi() -> list[JobPosting]:
     jobs: list[JobPosting] = []
     for it in all_items.values():
         jid = str(it.get("jdId") or "")
-        jd_no = it.get("jdNo") or ""
         title = it.get("jobName") or ""
         if not jid or not title:
             continue
 
+        # Detail route uses the numeric jdId (verified: clicking a job card in
+        # the list opens /social/p/{jdId}). The JR-code jdNo route renders an
+        # empty skeleton even for live jobs.
         jobs.append(JobPosting(
             job_id=jid,
             platform="didi",
@@ -98,7 +100,7 @@ def scrape_didi() -> list[JobPosting]:
             location=it.get("workArea") or "",
             description=it.get("jobDuty") or "",
             requirements=it.get("jobQualification") or "",
-            url=f"https://talent.didiglobal.com/social/p/{jd_no}" if jd_no else "https://talent.didiglobal.com/social",
+            url=f"https://talent.didiglobal.com/social/p/{jid}" if jid else "https://talent.didiglobal.com/social",
             publish_date=it.get("refreshTime") or "",
         ))
 

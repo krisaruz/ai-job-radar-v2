@@ -86,9 +86,11 @@ def scrape_ctrip() -> list[JobPosting]:
 
         new_count = 0
         for it in items:
-            jid = str(it.get("id") or "")
-            if jid and jid not in all_items:
-                all_items[jid] = it
+            # Dedup by stable fromId (MJ code); the numeric id regenerates per
+            # scrape and would let the same job accumulate across pages.
+            key = str(it.get("fromId") or it.get("id") or "")
+            if key and key not in all_items:
+                all_items[key] = it
                 new_count += 1
 
         logger.info("[ctrip] page %d: got %d items, new=%d, total_count=%d",
@@ -119,8 +121,11 @@ def scrape_ctrip() -> list[JobPosting]:
         from_id = it.get("fromId") or ""
         detail_path = f"/#/experienced/job-detail/{from_id}" if from_id else ""
 
+        # The numeric `id` changes on every scrape, so using it as job_id made
+        # dedup treat each day's re-scrape as brand-new jobs — the same 6 jobs
+        # piled up into 246 duplicates. fromId (MJ code) is the stable key.
         jobs.append(JobPosting(
-            job_id=jid,
+            job_id=from_id or jid,
             platform="ctrip",
             title=title,
             company="携程",
