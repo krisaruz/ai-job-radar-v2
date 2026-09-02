@@ -200,6 +200,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Sync to latest remote main BEFORE committing to guarantee fast-forward
+          # push. reset --mixed keeps generated files in the working tree while
+          # moving HEAD to origin/main, so concurrent pushes don't get rejected.
+          git fetch origin main
+          git reset --mixed origin/main
           git add data/ README.md jobs/
           if git diff --staged --quiet; then
             echo "No changes to commit"
