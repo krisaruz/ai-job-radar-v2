@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-02 08:14 | 岗位总数: **453**
+> 更新时间: 2026-09-02 08:22 | 岗位总数: **453**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -428,30 +428,30 @@ _AI/Agent产品 12 / 测试开发(AI方向) 6 / Agent评测 6 / 大模型/AI测�
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI效能与质量保障（J104103）](https://talent.baidu.com/jobs/social-list?postId=e061fd99-2599-4059-b277-f9c921191544) | 大模型/AI测试 | 深圳 | 技术 |
-| [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/social-list?postId=6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
+| [AI效能与质量保障（J104103）](https://talent.baidu.com/jobs/detail/SOCIAL/e061fd99-2599-4059-b277-f9c921191544) | 大模型/AI测试 | 深圳 | 技术 |
+| [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算平台测试开发工程师（J97448）](https://talent.baidu.com/jobs/social-detail/J97448) | 测试开发(AI方向) |  |  |
-| [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/social-list?postId=efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
+| [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI软件测试开发工程师（J93911）](https://talent.baidu.com/jobs/social-detail/J93911) | 测试开发(AI方向) |  |  |
 | [上海-AI测试开发工程师(J101057)](https://talent.baidu.com/jobs/social-list?postId=fea4ea6b-86a6-4a22-807f-b9dc6fa116a6) | 测试开发(AI方向) | 上海 |  |
-| [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/social-list?postId=5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
-| [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/social-list?postId=aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
+| [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
+| [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/detail/SOCIAL/aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
 | [大模型效果评测工程师（J97941）](https://talent.baidu.com/jobs/social-detail/J97941) | Agent评测 |  |  |
 | [大模型算法工程师-模型评测方向（J98466）](https://talent.baidu.com/jobs/social-detail/J98466) | Agent评测 |  |  |
 | [大模型评估策略PM（J98762）](https://talent.baidu.com/jobs/social-detail/J98762) | Agent评测 |  |  |
-| [大模型评测工程师（J98467）](https://talent.baidu.com/jobs/social-list?postId=34191123-fa6b-4ddb-b503-409f6f9c5673) | Agent评测 | 北京 | 技术 |
-| [大模型评测算法工程师（J100902）](https://talent.baidu.com/jobs/social-list?postId=24c9e591-75c8-42bd-b531-522b53fc47ac) | Agent评测 | 北京 | 技术 |
+| [大模型评测工程师（J98467）](https://talent.baidu.com/jobs/detail/SOCIAL/34191123-fa6b-4ddb-b503-409f6f9c5673) | Agent评测 | 北京 | 技术 |
+| [大模型评测算法工程师（J100902）](https://talent.baidu.com/jobs/detail/SOCIAL/24c9e591-75c8-42bd-b531-522b53fc47ac) | Agent评测 | 北京 | 技术 |
 | [AI Agent产品经理(数字员工方向)（J96538）](https://talent.baidu.com/jobs/social-detail/J96538) | AI/Agent产品 |  |  |
-| [AI 产品经理（私域Agent 方向）（J98474）](https://talent.baidu.com/jobs/social-list?postId=037e198c-d1db-4607-9a68-041d04e309c4) | AI/Agent产品 | 北京 | 产品 |
+| [AI 产品经理（私域Agent 方向）（J98474）](https://talent.baidu.com/jobs/detail/SOCIAL/037e198c-d1db-4607-9a68-041d04e309c4) | AI/Agent产品 | 北京 | 产品 |
 | [AIGC产品经理（J90497）](https://talent.baidu.com/jobs/social-detail/J90497) | AI/Agent产品 |  |  |
 | [Agent产品经理（J97204）](https://talent.baidu.com/jobs/social-detail/J97204) | AI/Agent产品 |  |  |
-| [Agent产品经理（电商方向）（J99416）](https://talent.baidu.com/jobs/social-list?postId=bfc48fb5-5eee-46b7-a03f-5e8529b49277) | AI/Agent产品 | 北京 | 产品 |
-| [Agent高阶产品经理（J96584）](https://talent.baidu.com/jobs/social-list?postId=4aa8dad1-aa0e-4327-83db-9553326a988c) | AI/Agent产品 | 北京 | 产品 |
-| [agent产品（J101151）](https://talent.baidu.com/jobs/social-list?postId=dd312460-ab60-4dde-ad83-2d89e206c6de) | AI/Agent产品 | 北京 | 产品 |
-| [伐谋-Agent产品经理（J99563）](https://talent.baidu.com/jobs/social-list?postId=d527f26d-4990-4db5-b1de-d8dc4243824b) | AI/Agent产品 | 北京 | 产品 |
-| [医生Agent产品专家（J100602）](https://talent.baidu.com/jobs/social-list?postId=1f7d8a88-1c3a-473c-bf50-66f6a11244d4) | AI/Agent产品 | 北京 | 产品 |
-| [商业AIGC产品经理（J94402）](https://talent.baidu.com/jobs/social-list?postId=887ca463-c0d8-4dc6-b529-ab7fd4c83508) | AI/Agent产品 | 北京 | 产品 |
-| [商家Ai agent产品经理（J99223）](https://talent.baidu.com/jobs/social-list?postId=67a90a79-47ef-4c18-9191-90bd608f4048) | AI/Agent产品 | 北京 | 产品 |
+| [Agent产品经理（电商方向）（J99416）](https://talent.baidu.com/jobs/detail/SOCIAL/bfc48fb5-5eee-46b7-a03f-5e8529b49277) | AI/Agent产品 | 北京 | 产品 |
+| [Agent高阶产品经理（J96584）](https://talent.baidu.com/jobs/detail/SOCIAL/4aa8dad1-aa0e-4327-83db-9553326a988c) | AI/Agent产品 | 北京 | 产品 |
+| [agent产品（J101151）](https://talent.baidu.com/jobs/detail/SOCIAL/dd312460-ab60-4dde-ad83-2d89e206c6de) | AI/Agent产品 | 北京 | 产品 |
+| [伐谋-Agent产品经理（J99563）](https://talent.baidu.com/jobs/detail/SOCIAL/d527f26d-4990-4db5-b1de-d8dc4243824b) | AI/Agent产品 | 北京 | 产品 |
+| [医生Agent产品专家（J100602）](https://talent.baidu.com/jobs/detail/SOCIAL/1f7d8a88-1c3a-473c-bf50-66f6a11244d4) | AI/Agent产品 | 北京 | 产品 |
+| [商业AIGC产品经理（J94402）](https://talent.baidu.com/jobs/detail/SOCIAL/887ca463-c0d8-4dc6-b529-ab7fd4c83508) | AI/Agent产品 | 北京 | 产品 |
+| [商家Ai agent产品经理（J99223）](https://talent.baidu.com/jobs/detail/SOCIAL/67a90a79-47ef-4c18-9191-90bd608f4048) | AI/Agent产品 | 北京 | 产品 |
 | [大模型Agent产品经理（J98946）](https://talent.baidu.com/jobs/social-detail/J98946) | AI/Agent产品 |  |  |
 
 ### [科大讯飞](jobs/科大讯飞.md)（14 个岗位）
@@ -638,4 +638,4 @@ _Agent评测 9 / 测试开发(AI方向) 1 / 大模型/AI测试 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-02 08:14。仅供求职参考。*
+*数据自动采集，更新于 2026-09-02 08:22。仅供求职参考。*
