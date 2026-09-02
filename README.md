@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-02 05:35 | 岗位总数: **453**
+> 更新时间: 2026-09-02 08:14 | 岗位总数: **453**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -460,20 +460,20 @@ _大模型/AI测试 12 / 测试开发(AI方向) 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI研究院-AI算法测试工程师](https://iflytek.zhiye.com/jobs?keyword=AI%E7%A0%94%E7%A9%B6%E9%99%A2-AI%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E4%B8%AD%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E4%B8%AD%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E4%B8%AD%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师-语音及大模型](https://iflytek.zhiye.com/jobs?keyword=%E4%B8%AD%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88-%E8%AF%AD%E9%9F%B3%E5%8F%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B) | 大模型/AI测试 |  |  |
-| [词元星火-中级测试技术工程师(J13595)](https://iflytek.zhiye.com/jobs?keyword=%E8%AF%8D%E5%85%83%E6%98%9F%E7%81%AB-%E4%B8%AD%E7%BA%A7%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [高级AI测试工程师(J12757)](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7AI%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [高级AI测试工程师(J13010)](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7AI%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
+| [AI研究院-AI算法测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e587ad7b-5d66-4519-97af-eab6cd593fec) | 大模型/AI测试 |  |  |
+| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=950b0f1f-6be3-4520-94ea-13bfcf2f6bb0) | 大模型/AI测试 |  |  |
+| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e40473cc-64c5-4832-b757-43f3ffbfa4a6) | 大模型/AI测试 |  |  |
+| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=a582272d-f2e9-4357-8aba-d8dc195e22b5) | 大模型/AI测试 |  |  |
+| [中级系统测试工程师-语音及大模型](https://iflytek.zhiye.com/4/detail?jobAdId=4803ecc2-ea29-44e4-a351-ad8261f7699e) | 大模型/AI测试 |  |  |
+| [词元星火-中级测试技术工程师(J13595)](https://iflytek.zhiye.com/4/detail?jobAdId=c77e15b9-c8e1-4dac-82bd-8ed85f4aea8a) | 大模型/AI测试 |  |  |
+| [高级AI测试工程师(J12757)](https://iflytek.zhiye.com/4/detail?jobAdId=c7313bc8-a3cc-4fb5-8e5c-18f125a74ed4) | 大模型/AI测试 |  |  |
+| [高级AI测试工程师(J13010)](https://iflytek.zhiye.com/4/detail?jobAdId=b42f0a13-f47d-40ab-a253-1cd05beb8abf) | 大模型/AI测试 |  |  |
 | [高级测试技术工程师(J13197)](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/jobs?keyword=%E9%AB%98%E7%BA%A7%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88) | 大模型/AI测试 |  |  |
-| [AI算法测试开发工程师(J13365)](https://iflytek.zhiye.com/jobs?keyword=AI%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88) | 测试开发(AI方向) |  |  |
-| [AI研究院-研究算法工程师-语音评测](https://iflytek.zhiye.com/jobs?keyword=AI%E7%A0%94%E7%A9%B6%E9%99%A2-%E7%A0%94%E7%A9%B6%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-%E8%AF%AD%E9%9F%B3%E8%AF%84%E6%B5%8B) | Agent评测 |  |  |
+| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=f1073fbe-d8a6-403d-8daf-ecd1fee01832) | 大模型/AI测试 |  |  |
+| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=740f7bad-9562-44a3-b2b7-336b12fc86ed) | 大模型/AI测试 |  |  |
+| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=b7dc8c3d-afed-47f3-9881-86b6ffa3add2) | 大模型/AI测试 |  |  |
+| [AI算法测试开发工程师(J13365)](https://iflytek.zhiye.com/4/detail?jobAdId=bdb63a08-7b4b-4415-9e3b-84b78e6c3e87) | 测试开发(AI方向) |  |  |
+| [AI研究院-研究算法工程师-语音评测](https://iflytek.zhiye.com/4/detail?jobAdId=d7eba20c-12c5-41c7-a4bc-7a498e213951) | Agent评测 |  |  |
 
 ### [网易](jobs/网易.md)（6 个岗位）
 
@@ -638,4 +638,4 @@ _Agent评测 9 / 测试开发(AI方向) 1 / 大模型/AI测试 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-02 05:35。仅供求职参考。*
+*数据自动采集，更新于 2026-09-02 08:14。仅供求职参考。*
