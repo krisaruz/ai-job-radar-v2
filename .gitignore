@@ -28,3 +28,6 @@ _*.json
 _*.txt
 _*.png
 quick_scrape.py
+
+# Link health check report (generated, not tracked)
+data/link-health.md
