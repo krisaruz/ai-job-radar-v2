@@ -103,7 +103,12 @@ def scrape_meituan() -> list[JobPosting]:
 
             page.on("response", detail_handler)
             try:
-                page.goto(f"{BASE_URL}/{jid}", wait_until="domcontentloaded", timeout=10000)
+                # The live detail route (captured from clicking a job card);
+                # path-style /social-recruitment/{id} gets rewritten to the list.
+                page.goto(
+                    f"https://zhaopin.meituan.com/web/position/detail?jobUnionId={jid}&highlightType=social",
+                    wait_until="domcontentloaded", timeout=10000,
+                )
                 page.wait_for_timeout(2000)
             except Exception:
                 pass
@@ -113,6 +118,10 @@ def scrape_meituan() -> list[JobPosting]:
 
         jobs: list[JobPosting] = []
         for jid, it in all_items.items():
+            # Detail URL captured from the live site: clicking a job card opens
+            # /web/position/detail?jobUnionId={id}&highlightType=social. The
+            # path-style route /social-recruitment/{id} gets rewritten back to
+            # the list page and never locates the job.
             jobs.append(JobPosting(
                 job_id=jid, platform="meituan", company="美团",
                 title=it.get("name", ""),
@@ -122,7 +131,7 @@ def scrape_meituan() -> list[JobPosting]:
                 education=it.get("educationName", ""),
                 description=it.get("describe", ""),
                 requirements=it.get("requirement", ""),
-                url=f"https://zhaopin.meituan.com/social-recruitment/{jid}",
+                url=f"https://zhaopin.meituan.com/web/position/detail?jobUnionId={jid}&highlightType=social",
             ))
 
         logger.info("[meituan] total: %d", len(jobs))
