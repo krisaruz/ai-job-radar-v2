@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-03 05:40 | 岗位总数: **130**
+> 更新时间: 2026-09-03 13:27 | 岗位总数: **128**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,8 +14,8 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 22 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 50 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 47 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 30 |
 
 ## 各公司岗位
 
@@ -77,15 +77,14 @@ _大模型/AI测试 5 / 测试开发(AI方向) 2 / Agent评测 1_
 | [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522384257327939693/detail) | 测试开发(AI方向) | 西安 | 手机部 |
 | [Agent 评测工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7623375526208751935/detail) | Agent评测 | 北京 | 集团信息技术部 |
 
-### [小红书](jobs/小红书.md)（5 个岗位）
+### [小红书](jobs/小红书.md)（4 个岗位）
 
-_Agent评测 5_
+_Agent评测 4_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI 评测平台 Leader](https://job.xiaohongshu.com/social/position/21976) | Agent评测 | 上海 | 后端开发 |
 | [AI搜索评测产品经理](https://job.xiaohongshu.com/social/position/20081) | Agent评测 | 北京 | 产品经理 |
-| [【Agent 平台】AI 大模型评测平台研发工程师 / 专家](https://job.xiaohongshu.com/social/position/21896) | Agent评测 | 北京 | 机器学习平台 |
+| [Agent 评估与进化工程师 - Agent Evaluation & Evolution Engineer](https://job.xiaohongshu.com/social/position/21896) | Agent评测 | 北京 | 机器学习平台 |
 | [【Dots】大模型评测](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
 
@@ -152,9 +151,9 @@ _Agent评测 1_
 | --- | --- | --- | --- |
 | [兼职医学影像科医生（医疗 AI 影像评测 / 标注方向）](https://cq6qe6bvfr6.jobs.feishu.cn/baichuanzhaopin/position/7659710499500951814/detail) | Agent评测 | 北京 | 医院 / 医疗 / 护理 |
 
-### [百度](jobs/百度.md)（15 个岗位）
+### [百度](jobs/百度.md)（16 个岗位）
 
-_AI/Agent产品 8 / 测试开发(AI方向) 3 / Agent评测 3 / 大模型/AI测试 1_
+_AI/Agent产品 9 / 测试开发(AI方向) 3 / Agent评测 3 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -165,6 +164,7 @@ _AI/Agent产品 8 / 测试开发(AI方向) 3 / Agent评测 3 / 大模型/AI测�
 | [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/detail/SOCIAL/aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
 | [大模型评测工程师（J98467）](https://talent.baidu.com/jobs/detail/SOCIAL/34191123-fa6b-4ddb-b503-409f6f9c5673) | Agent评测 | 北京 | 技术 |
 | [大模型评测算法工程师（J100902）](https://talent.baidu.com/jobs/detail/SOCIAL/24c9e591-75c8-42bd-b531-522b53fc47ac) | Agent评测 | 北京 | 技术 |
+| [AI Agent产品经理（J105400）](https://talent.baidu.com/jobs/detail/SOCIAL/34a6f0bf-8068-4e39-9337-e3d4cc6d708f) | AI/Agent产品 | 北京 | 产品 |
 | [AI 产品经理（私域Agent 方向）（J98474）](https://talent.baidu.com/jobs/detail/SOCIAL/037e198c-d1db-4607-9a68-041d04e309c4) | AI/Agent产品 | 北京 | 产品 |
 | [Agent产品经理（电商方向）（J99416）](https://talent.baidu.com/jobs/detail/SOCIAL/bfc48fb5-5eee-46b7-a03f-5e8529b49277) | AI/Agent产品 | 北京 | 产品 |
 | [Agent高阶产品经理（J96584）](https://talent.baidu.com/jobs/detail/SOCIAL/4aa8dad1-aa0e-4327-83db-9553326a988c) | AI/Agent产品 | 北京 | 产品 |
@@ -214,9 +214,9 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 
-### [腾讯](jobs/腾讯.md)（18 个岗位）
+### [腾讯](jobs/腾讯.md)（16 个岗位）
 
-_Agent评测 11 / AI/Agent产品 4 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
+_Agent评测 9 / AI/Agent产品 4 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -227,13 +227,11 @@ _Agent评测 11 / AI/Agent产品 4 / 测试开发(AI方向) 2 / 大模型/AI测�
 | [大模型评测平台研发工程师](http://careers.tencent.com/jobdesc.html?postId=2092548112634789888) | Agent评测 | 深圳 | CSIG |
 | [微信基础-后台开发-AI评测方向](http://careers.tencent.com/jobdesc.html?postId=2059948190203035648) | Agent评测 | 广州 | WXG |
 | [微信基础-大模型评测产品经理](http://careers.tencent.com/jobdesc.html?postId=2059948192291799040) | Agent评测 | 广州 | WXG |
-| [微信读书/输入法/秒剪-大模型评测算法工程师-Agent方向](http://careers.tencent.com/jobdesc.html?postId=2068897969461178368) | Agent评测 | 北京 | WXG |
-| [微信输入法-大模型评测数据科学分析师](http://careers.tencent.com/jobdesc.html?postId=2021936632051167232) | Agent评测 | 广州 | WXG |
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330913710260224) | Agent评测 | 北京 | IEG |
-| [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330918441435136) | Agent评测 | 深圳 | IEG |
+| [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [QQ-Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2077347119940939776) | AI/Agent产品 | 深圳 | PCG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
@@ -291,8 +289,8 @@ _Agent评测 9 / 测试开发(AI方向) 1_
 | 北京 | 59 |
 | 深圳 | 15 |
 | 杭州 | 10 |
-| 广州 | 6 |
-| 上海 | 6 |
+| 广州 | 5 |
+| 上海 | 5 |
 | Shanghai | 5 |
 | 成都 | 1 |
 | 西安 | 1 |
@@ -301,4 +299,4 @@ _Agent评测 9 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-03 05:40。仅供求职参考。*
+*数据自动采集，更新于 2026-09-03 13:27。仅供求职参考。*
