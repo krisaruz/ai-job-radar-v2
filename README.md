@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-03 02:05 | 岗位总数: **131**
+> 更新时间: 2026-09-03 05:40 | 岗位总数: **130**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,9 +13,9 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 23 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 51 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 22 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 50 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
 
 ## 各公司岗位
 
@@ -132,15 +132,14 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（6 个岗位）
+### [滴滴](jobs/滴滴.md)（5 个岗位）
 
-_AI/Agent产品 3 / Agent评测 2 / 测试开发(AI方向) 1_
+_AI/Agent产品 4 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [测试开发工程师-AI质量引入方向 (JR2026070600A)](https://talent.didiglobal.com/social/p/65001) | 测试开发(AI方向) | 北京 | Voyager |
 | [AI评测产品经理 (JR2026072300I)](https://talent.didiglobal.com/social/p/65364) | Agent评测 | 北京 | 平台产品 |
-| [模型评估平台后端开发工程师 (JR2026071600K)](https://talent.didiglobal.com/social/p/65250) | Agent评测 | 北京 | Voyager |
+| [AI Agent 产品经理 (JR20260518015)](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [国际化AI Agent产品经理 (J250915040)](https://talent.didiglobal.com/social/p/59163) | AI/Agent产品 | 北京 | Intl Product |
 | [国际化金融-风控 AI 产品经理（社招 / Agent 与 Harness 工程方向） (JR2026072100K)](https://talent.didiglobal.com/social/p/65318) | AI/Agent产品 | 杭州 | Fintech Risk & Algorithm |
 | [开发agent产品经理 (JR20260626007)](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
@@ -233,8 +232,8 @@ _Agent评测 11 / AI/Agent产品 4 / 测试开发(AI方向) 2 / 大模型/AI测�
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330913710260224) | Agent评测 | 北京 | IEG |
-| [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330918441435136) | Agent评测 | 深圳 | IEG |
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
+| [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330918441435136) | Agent评测 | 深圳 | IEG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [QQ-Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2077347119940939776) | AI/Agent产品 | 深圳 | PCG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
@@ -289,7 +288,7 @@ _Agent评测 9 / 测试开发(AI方向) 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 60 |
+| 北京 | 59 |
 | 深圳 | 15 |
 | 杭州 | 10 |
 | 广州 | 6 |
@@ -302,4 +301,4 @@ _Agent评测 9 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-03 02:05。仅供求职参考。*
+*数据自动采集，更新于 2026-09-03 05:40。仅供求职参考。*
