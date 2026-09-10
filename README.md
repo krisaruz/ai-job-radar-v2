@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-10 05:48 | 岗位总数: **124**
+> 更新时间: 2026-09-10 13:33 | 岗位总数: **123**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 43 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 42 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
 ## 各公司岗位
@@ -270,16 +270,15 @@ _AI/Agent产品 2 / Agent评测 2 / 测试开发(AI方向) 2 / 大模型/AI测�
 | [千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100010900011) | AI/Agent产品 | 北京 |  |
 | [千问事业部-千问Agent 产品专家-AI 办公场景-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100018640019) | AI/Agent产品 | 北京 |  |
 
-### [面壁智能](jobs/面壁智能.md)（6 个岗位）
+### [面壁智能](jobs/面壁智能.md)（5 个岗位）
 
-_Agent评测 5 / 测试开发(AI方向) 1_
+_Agent评测 4 / 测试开发(AI方向) 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [测试开发工程师-法律智能业务](https://modelbest.jobs.feishu.cn/career/position/7679002753989593353/detail) | 测试开发(AI方向) | 北京 |  |
 | [AI 评测平台开发工程师（全栈）](https://modelbest.jobs.feishu.cn/career/position/7658275775146412329/detail) | Agent评测 | 北京 |  |
 | [AI评测平台全栈开发工程师](https://modelbest.jobs.feishu.cn/career/position/7664518071403694355/detail) | Agent评测 | 北京 |  |
-| [具身智能真机部署与评测工程师](https://modelbest.jobs.feishu.cn/career/position/7648659553487423770/detail) | Agent评测 | 北京 |  |
 | [大模型评测算法](https://modelbest.jobs.feishu.cn/career/position/7664526821957896474/detail) | Agent评测 | 北京 |  |
 | [大模型评测算法工程师](https://modelbest.jobs.feishu.cn/career/position/7583968750891551002/detail) | Agent评测 | 北京 |  |
 
@@ -289,7 +288,7 @@ _Agent评测 5 / 测试开发(AI方向) 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 53 |
+| 北京 | 52 |
 | 深圳 | 14 |
 | 杭州 | 9 |
 | Shanghai | 8 |
@@ -301,4 +300,4 @@ _Agent评测 5 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-10 05:48。仅供求职参考。*
+*数据自动采集，更新于 2026-09-10 13:33。仅供求职参考。*
