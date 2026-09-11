@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-10 13:33 | 岗位总数: **123**
+> 更新时间: 2026-09-11 05:46 | 岗位总数: **123**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -54,13 +54,14 @@ _Agent评测 2_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 
-### [字节跳动](jobs/字节跳动.md)（2 个岗位）
+### [字节跳动](jobs/字节跳动.md)（3 个岗位）
 
-_Agent评测 1 / AI/Agent产品 1_
+_Agent评测 2 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [办公AI效果评测产品经理 - 抖音AI](https://jobs.bytedance.com/experienced/position/7676391771442645301/detail) | Agent评测 |  | 产品 |
+| [豆包语音大模型评测工程师-Data语音](https://jobs.bytedance.com/experienced/position/7654484200146471221/detail) | Agent评测 |  | 研发 |
 | [智能用户策略产品经理（AI Agent方向） - 抖音电商](https://jobs.bytedance.com/experienced/position/7667980500082542901/detail) | AI/Agent产品 |  | 产品 |
 
 ### [小米](jobs/小米.md)（4 个岗位）
@@ -144,14 +145,6 @@ _AI/Agent产品 3 / 测试开发(AI方向) 2 / Agent评测 1_
 | [AI Agent 产品经理 (JR20260518015)](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [国际化AI Agent产品经理 (J250915040)](https://talent.didiglobal.com/social/p/59163) | AI/Agent产品 | 北京 | Intl Product |
 | [国际化金融-风控 AI 产品经理（社招 / Agent 与 Harness 工程方向） (JR2026072100K)](https://talent.didiglobal.com/social/p/65318) | AI/Agent产品 | 杭州 | Fintech Risk & Algorithm |
-
-### [百川智能](jobs/百川智能.md)（1 个岗位）
-
-_Agent评测 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [兼职医学影像科医生（医疗 AI 影像评测 / 标注方向）](https://cq6qe6bvfr6.jobs.feishu.cn/baichuanzhaopin/position/7659710499500951814/detail) | Agent评测 | 北京 | 医院 / 医疗 / 护理 |
 
 ### [百度](jobs/百度.md)（17 个岗位）
 
@@ -288,7 +281,7 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 52 |
+| 北京 | 51 |
 | 深圳 | 14 |
 | 杭州 | 9 |
 | Shanghai | 8 |
@@ -300,4 +293,4 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-10 13:33。仅供求职参考。*
+*数据自动采集，更新于 2026-09-11 05:46。仅供求职参考。*
