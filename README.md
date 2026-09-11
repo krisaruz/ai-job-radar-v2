@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-11 05:46 | 岗位总数: **123**
+> 更新时间: 2026-09-11 13:27 | 岗位总数: **125**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,9 +13,9 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 26 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 42 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
 
 ## 各公司岗位
 
@@ -218,14 +218,15 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [AI测试专家](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4754858709&highlightType=social) | 大模型/AI测试 |  |  |
 
-### [腾讯](jobs/腾讯.md)（15 个岗位）
+### [腾讯](jobs/腾讯.md)（17 个岗位）
 
-_Agent评测 8 / AI/Agent产品 3 / 测试开发(AI方向) 2 / 大模型/AI测试 2_
+_Agent评测 8 / AI/Agent产品 4 / 测试开发(AI方向) 3 / 大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [测试工程师](http://careers.tencent.com/jobdesc.html?postId=2088194556695855104) | 大模型/AI测试 | 深圳 | TEG |
 | [腾讯云-AI平台测试工程师](http://careers.tencent.com/jobdesc.html?postId=2095048211722059776) | 大模型/AI测试 | 深圳 | CSIG |
+| [企业微信-测试开发工程师-AI测试提效方向](http://careers.tencent.com/jobdesc.html?postId=2098283820326502400) | 测试开发(AI方向) | 广州 | WXG |
 | [微信-小程序测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2066499012814618624) | 测试开发(AI方向) | 广州 | WXG |
 | [测试开发工程师-AI软件测试方向](http://careers.tencent.com/jobdesc.html?postId=2044704007120912384) | 测试开发(AI方向) | 深圳 | TEG |
 | [具身大模型评测与数据工程师](http://careers.tencent.com/jobdesc.html?postId=2059891450371555328) | Agent评测 | 深圳 | TEG |
@@ -238,6 +239,7 @@ _Agent评测 8 / AI/Agent产品 3 / 测试开发(AI方向) 2 / 大模型/AI测�
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [QQ-Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2077347119940939776) | AI/Agent产品 | 深圳 | PCG |
+| [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
 
 ### [莉莉丝](jobs/莉莉丝.md)（1 个岗位）
@@ -282,10 +284,10 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 51 |
-| 深圳 | 14 |
+| 深圳 | 15 |
 | 杭州 | 9 |
 | Shanghai | 8 |
-| 广州 | 5 |
+| 广州 | 6 |
 | 上海 | 4 |
 | 成都 | 1 |
 | 西安 | 1 |
@@ -293,4 +295,4 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-11 05:46。仅供求职参考。*
+*数据自动采集，更新于 2026-09-11 13:27。仅供求职参考。*
