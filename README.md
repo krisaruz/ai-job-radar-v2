@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-11 13:27 | 岗位总数: **125**
+> 更新时间: 2026-09-12 05:36 | 岗位总数: **121**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,15 +13,15 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 26 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 42 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
 ## 各公司岗位
 
-### [MiniMax](jobs/MiniMax.md)（10 个岗位）
+### [MiniMax](jobs/MiniMax.md)（8 个岗位）
 
-_Agent评测 4 / 测试开发(AI方向) 3 / AI/Agent产品 3_
+_测试开发(AI方向) 3 / AI/Agent产品 3 / Agent评测 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -29,9 +29,7 @@ _Agent评测 4 / 测试开发(AI方向) 3 / AI/Agent产品 3_
 | [Agent测试开发工程师-支付](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651601796775069971/detail) | 测试开发(AI方向) | 北京 | 测试 |
 | [Senior测试开发工程师-大模型方向](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651581813773961526/detail) | 测试开发(AI方向) | 北京 | 研发 |
 | [AI 评测工程师](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7660063893650606374/detail) | Agent评测 | 北京 | 互联网 / 电子 / 网游 |
-| [Android 工程师（AI 训练与评测 ）](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7644875960659904810/detail) | Agent评测 | 北京 | 互联网 / 电子 / 网游 |
 | [大模型评测研究员](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7637364748019583275/detail) | Agent评测 | 北京 | 算法 |
-| [桌面端工程师（AI 训练与评测 ）](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7644894987574741275/detail) | Agent评测 | 北京 | 互联网 / 电子 / 网游 |
 | [AIGC产品经理](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7520549080461887785/detail) | AI/Agent产品 | 上海 | 产品经理 |
 | [AIGC产品经理-talkie星野方向](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7362070184364591387/detail) | AI/Agent产品 | 上海 | 产品经理 |
 | [AIGC产品经理-海螺AI方向](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7579523111286147366/detail) | AI/Agent产品 | 北京 | 产品经理 |
@@ -54,15 +52,14 @@ _Agent评测 2_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 
-### [字节跳动](jobs/字节跳动.md)（3 个岗位）
+### [字节跳动](jobs/字节跳动.md)（2 个岗位）
 
-_Agent评测 2 / AI/Agent产品 1_
+_Agent评测 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [办公AI效果评测产品经理 - 抖音AI](https://jobs.bytedance.com/experienced/position/7676391771442645301/detail) | Agent评测 |  | 产品 |
+| [AI大模型应用能力评测专家（自动评测方向） - AI数据与安全](https://jobs.bytedance.com/experienced/position/7670130567866321157/detail) | Agent评测 |  | 运营 |
 | [豆包语音大模型评测工程师-Data语音](https://jobs.bytedance.com/experienced/position/7654484200146471221/detail) | Agent评测 |  | 研发 |
-| [智能用户策略产品经理（AI Agent方向） - 抖音电商](https://jobs.bytedance.com/experienced/position/7667980500082542901/detail) | AI/Agent产品 |  | 产品 |
 
 ### [小米](jobs/小米.md)（4 个岗位）
 
@@ -135,11 +132,11 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 
 ### [滴滴](jobs/滴滴.md)（6 个岗位）
 
-_AI/Agent产品 3 / 测试开发(AI方向) 2 / Agent评测 1_
+_AI/Agent产品 3 / 大模型/AI测试 1 / 测试开发(AI方向) 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [资深服务端测试开发工程师-质量Ai (JR2026082600V)](https://talent.didiglobal.com/social/p/66003) | 测试开发(AI方向) | 北京 | Artificial Intelligence |
+| [算法测试专家 (JR2026090200L)](https://talent.didiglobal.com/social/p/66135) | 大模型/AI测试 | 深圳 | DH |
 | [资深测试开发工程师(Agent测评工程师) (JR20260806006)](https://talent.didiglobal.com/social/p/65636) | 测试开发(AI方向) | 成都 | 企业级事业部 |
 | [AI评测产品经理 (JR2026072300I)](https://talent.didiglobal.com/social/p/65364) | Agent评测 | 北京 | 平台产品 |
 | [AI Agent 产品经理 (JR20260518015)](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
@@ -210,14 +207,6 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [专项测试工程师（广州）](https://hr.163.com/job-detail.html?id=77368) | 大模型/AI测试 | 广州 | 质量保障中心 |
 
-### [美团](jobs/美团.md)（1 个岗位）
-
-_大模型/AI测试 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [AI测试专家](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4754858709&highlightType=social) | 大模型/AI测试 |  |  |
-
 ### [腾讯](jobs/腾讯.md)（17 个岗位）
 
 _Agent评测 8 / AI/Agent产品 4 / 测试开发(AI方向) 3 / 大模型/AI测试 2_
@@ -283,8 +272,8 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 51 |
-| 深圳 | 15 |
+| 北京 | 48 |
+| 深圳 | 16 |
 | 杭州 | 9 |
 | Shanghai | 8 |
 | 广州 | 6 |
@@ -295,4 +284,4 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-11 13:27。仅供求职参考。*
+*数据自动采集，更新于 2026-09-12 05:36。仅供求职参考。*

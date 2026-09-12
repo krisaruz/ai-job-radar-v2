@@ -1,6 +1,6 @@
 # MiniMax - AI 相关岗位
 
-> 岗位数: 10 | 更新时间: 2026-09-11 13:27
+> 岗位数: 8 | 更新时间: 2026-09-12 05:36
 
 ## 测试开发(AI方向)（3）
 
@@ -106,7 +106,7 @@ MiniMax 是国内头部大模型公司，开放平台是商业化的核心战场
 
 ---
 
-## Agent评测（4）
+## Agent评测（2）
 
 ### AI 评测工程师
 
@@ -137,62 +137,6 @@ MiniMax 是国内头部大模型公司，开放平台是商业化的核心战场
 - 有模型、Agent、AI产品评测经验者优先；
 
 - 对模型评测充满兴趣，对开源benchmark数据集有研究经验者优先。
-
----
-
-### Android 工程师（AI 训练与评测 ）
-
-📍 北京, 上海 | 🏢 互联网 / 电子 / 网游
-
-🔗 [投递链接](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7644875960659904810/detail)
-
-**岗位职责：**
-
-岗位背景
-
-我们正在提升大模型在移动应用开发方向的能力，工作覆盖后训练数据构造、SFT / RL、Agent 任务设计和自动化评测。
-
-Android 是一个同时考验代码生成与真实环境执行能力的复杂场景。模型不仅要能够编写代码，还需要理解应用架构、构建系统、系统 API、设备差异和 UI 交互，并确保生成的应用可以在真实设备或模拟器中完成编译、安装、启动和运行。
-
-在这个领域，“代码看起来正确”远远不够。模型生成的应用必须真正跑起来，Agent 执行的操作也必须产生预期结果。因此，训练数据和评测体系的工程难度并不低于模型训练本身。
-
-我们希望找到一位真正理解 Android 工程的伙伴，一起把训练数据、自动化评测、设备沙盒和 Mobile Agent 的完整链路建设起来。你不是单纯在开发一款 App，而是在帮助模型获得开发和操作移动应用的能力。
-
-你将负责
-
-1）构建 Android 训练数据：设计移动应用开发任务的能力维度、难度分层和数据配方，产出可用于 SFT、RL 和 Agent 训练的高质量数据；覆盖单轮代码、多文件应用、多轮交互、UI 还原、功能开发、问题修复、跨端实现和 Agent 操作等任务类型，涉及 Android 原生、Flutter、React Native、Kotlin Multiplatform 等技术方向。
-
-2）建设自动化评测体系：设计 Android 代码和应用行为的自动化评测方法，覆盖编译与构建、应用安装与启动、单元测试、UI 比对、功能回归、性能与稳定性等验证环节；建设 Mobile Agent 端到端评测，验证 Agent 能否完成应用安装、启动、点击、输入、页面跳转、权限处理和任务执行等真实操作。
-
-3）建设设备集群与沙盒环境：参与建设高并发、高可用的 Android 设备集群和沙盒链路，覆盖不同 Android 版本、厂商 ROM、屏幕尺寸、设备形...
-
-**岗位要求：**
-
-我们希望你具备
-
-1）深度使用 AI 编程工具，已将 Claude Code、Cursor、Codex 等至少一种工具融入日常开发流程；愿意持续研究 Agent、Harness 和 Computer Use 的能力边界。
-
-2）理解大模型与 Agent 的基本工作机制，能够区分 SFT 数据、RL Reward 和评测集，理解 Tool Calling、多轮交互、Context Engineering 等概念。我们不要求你训练过模型，但希望你理解这些机制分别在解决什么问题。
-
-3）具备 3 年以上 Android 工程经验，熟练使用 Kotlin或Java，熟悉 AGP、Gradle、R8 等 Android 构建与工程体系。
-
-4）具备完整的 Android 应用开发经验，熟悉应用架构、性能优化、网络通信、缓存、数据持久化、权限管理、应用打包与发布等环节，了解一个真实应用从开发、测试到上线迭代的完整过程。
-
-5）熟悉 ADB、AVD、Android Emulator、KVM，能够进行模拟器配置、设备控制、日志分析和问题排查。
-
-6）熟练使用 Python，能够阅读和修改 TypeScript / Node.js 项目。
-
-7）熟悉 Docker、Linux 和基础后端工程，能够参与自动化任务、评测服务和运行环境的建设。
-
-8）能够将复杂的移动应用开发任务拆解为可复现、可自动执行、可客观验证的工程问题。
-
-加分项
-
-1）做过训练数据合成、Benchmark 或自动化评测体系，尤其是 Android、Mobile Agent、Computer Use 相关项目。
-
-2）深度参与 Agent 或 MCP 生态，例如改造过 Agent Harness、开发过 MCP Server，或为开源 Agent 项目贡献过代码。
-
-3）有 Appium、UIAutomator2、Espresso 等自动化测试经...
 
 ---
 
@@ -231,62 +175,6 @@ Android 是一个同时考验代码生成与真实环境执行能力的复杂场
 加分项:
 
 在一个或多个机器学习领域的深入算法研究经历。
-
----
-
-### 桌面端工程师（AI 训练与评测 ）
-
-📍 北京, 上海 | 🏢 互联网 / 电子 / 网游
-
-🔗 [投递链接](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7644894987574741275/detail)
-
-**岗位职责：**
-
-岗位背景
-
-我们正在提升大模型在移动端、桌面端和 Web 应用开发方向的能力，工作覆盖后训练数据构造、SFT / RL、Agent 任务设计和自动化评测。
-
-其中，桌面端是目前模型能力相对薄弱、但用户需求非常真实的场景：Windows、macOS、Linux 平台各不相同，Electron、Tauri、Qt 和原生框架并存，还涉及图形渲染、系统 API、应用打包、权限管理和 Accessibility Tree。
-
-在这个领域，“代码看起来正确”远远不够。模型生成的应用必须能够真实编译、启动、渲染，并被 Agent 操作和验证。
-
-我们希望找到一位真正理解桌面端工程的伙伴，一起把训练数据、自动化评测、桌面沙盒和 GUI Agent 的完整链路建设起来。你不是单纯在开发一款桌面应用，而是在帮助模型获得开发和操作桌面应用的能力。
-
-你将负责
-
-1）构建桌面端训练数据：设计桌面应用开发任务的能力维度、难度分层和数据配方，产出可用于 SFT、RL 和 Agent 训练的高质量数据；覆盖单文件代码、多文件桌面应用、跨平台移植、原生 API、图形渲染、多轮 Agent 等任务类型，涉及 Electron、Tauri、Qt、SwiftUI、AppKit、WinUI、WPF、.NET MAUI、Bevy、wgpu 等技术方向。
-
-2）建设自动化评测体系：设计桌面端代码和应用行为的自动化评测方法，覆盖编译与打包、应用启动、进程健康、UI 渲染、Accessibility Tree、跨平台一致性等验证环节；建设 GUI Agent 端到端评测，验证 Agent 能否完成安装、启动、截图、点击、界面读取和测试执行等真实任务。
-
-3）建设桌面沙盒与虚拟机环境：参与建设高并发、高可用的桌面沙盒与虚拟机环境，覆盖 Windows、macOS、Linux 的不同版本和图形栈；使用 QEMU、KVM、Hyper-V、t...
-
-**岗位要求：**
-
-我们希望你具备
-
-1）深度使用 AI 编程工具，已将 Claude Code、Cursor、Codex 等至少一种工具融入日常开发流程；愿意持续研究 Agent、Harness 和 Computer Use 的能力边界。
-
-2）理解大模型与 Agent 的基本工作机制，能够区分 SFT 数据、RL Reward 和评测集，理解 Tool Calling、多轮交互、Context Engineering 等概念。我们不要求你训练过模型，但希望你理解这些机制分别在解决什么问题。
-
-3）具备 1 年以上桌面端工程经验，实际使用过 Electron、Tauri、Qt、SwiftUI、AppKit、WinUI、WPF、.NET MAUI 等至少一种技术栈。
-
-4）熟悉 Windows、macOS、Linux 中至少两个平台，了解进程、IPC、文件系统、权限模型及平台相关系统 API。
-
-5）熟练使用 Python，能够阅读和修改 TypeScript / Node.js 项目。
-
-6）熟悉 Docker、Linux 和基础后端工程，实际使用过至少一种桌面虚拟化方案。
-
-7）使用过 WinAppDriver、pywinauto、Accessibility API、UI Automation、AppleScript 等至少一种桌面自动化技术。
-
-8）能够将复杂问题拆解为可复现、可自动执行、可客观验证的工程任务。
-
-加分项
-
-1）做过训练数据合成、Benchmark 或自动化评测体系，尤其是桌面应用、GUI Agent、Computer Use 相关项目。
-
-2）深度参与 Agent 或 MCP 生态，例如改造过 Agent Harness、开发过 MCP Server，或为开源 Agent 项目贡献过代码。
-
-3）具备 Rust 图形或系统编程经验，熟悉 wgpu、winit、Bevy、Tauri 内部机制。...
 
 ---
 
