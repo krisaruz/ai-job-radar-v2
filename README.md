@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-13 05:51 | 岗位总数: **122**
+> 更新时间: 2026-09-13 13:53 | 岗位总数: **121**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,7 +13,7 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 26 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
@@ -143,16 +143,15 @@ _AI/Agent产品 3 / 大模型/AI测试 1 / 测试开发(AI方向) 1 / Agent评�
 | [国际化AI Agent产品经理 (J250915040)](https://talent.didiglobal.com/social/p/59163) | AI/Agent产品 | 北京 | Intl Product |
 | [国际化金融-风控 AI 产品经理（社招 / Agent 与 Harness 工程方向） (JR2026072100K)](https://talent.didiglobal.com/social/p/65318) | AI/Agent产品 | 杭州 | Fintech Risk & Algorithm |
 
-### [百度](jobs/百度.md)（18 个岗位）
+### [百度](jobs/百度.md)（17 个岗位）
 
-_AI/Agent产品 9 / 测试开发(AI方向) 4 / Agent评测 4 / 大模型/AI测试 1_
+_AI/Agent产品 9 / Agent评测 4 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI效能与质量保障（J104103）](https://talent.baidu.com/jobs/detail/SOCIAL/e061fd99-2599-4059-b277-f9c921191544) | 大模型/AI测试 | 深圳 | 技术 |
 | [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
-| [深圳-AI测试开发工程师(J101053)](https://talent.baidu.com/jobs/detail/SOCIAL/3d46adf6-09b3-4e04-b6d3-7959ddeab7bd) | 测试开发(AI方向) | 深圳 |  |
 | [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
 | [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/detail/SOCIAL/aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
 | [具身智能仿真评测研发工程师（J105511）](https://talent.baidu.com/jobs/detail/SOCIAL/c5d32c8f-841e-43e0-a8a7-150246eed239) | Agent评测 | 北京 | 技术 |
@@ -274,7 +273,7 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 48 |
-| 深圳 | 17 |
+| 深圳 | 16 |
 | 杭州 | 9 |
 | Shanghai | 8 |
 | 广州 | 6 |
@@ -285,4 +284,4 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-13 05:51。仅供求职参考。*
+*数据自动采集，更新于 2026-09-13 13:53。仅供求职参考。*
