@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-13 13:53 | 岗位总数: **121**
+> 更新时间: 2026-09-14 05:55 | 岗位总数: **119**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,8 +12,8 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 24 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
@@ -130,13 +130,12 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（6 个岗位）
+### [滴滴](jobs/滴滴.md)（5 个岗位）
 
-_AI/Agent产品 3 / 大模型/AI测试 1 / 测试开发(AI方向) 1 / Agent评测 1_
+_AI/Agent产品 3 / 测试开发(AI方向) 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [算法测试专家 (JR2026090200L)](https://talent.didiglobal.com/social/p/66135) | 大模型/AI测试 | 深圳 | DH |
 | [资深测试开发工程师(Agent测评工程师) (JR20260806006)](https://talent.didiglobal.com/social/p/65636) | 测试开发(AI方向) | 成都 | 企业级事业部 |
 | [AI评测产品经理 (JR2026072300I)](https://talent.didiglobal.com/social/p/65364) | Agent评测 | 北京 | 平台产品 |
 | [AI Agent 产品经理 (JR20260518015)](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
@@ -239,15 +238,14 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [资深测试工程师（发行方向）](https://lilithgames.jobs.feishu.cn/career/position/7606016773801019694/detail) | 大模型/AI测试 | 上海 | 测试 |
 
-### [阿里巴巴](jobs/阿里巴巴.md)（8 个岗位）
+### [阿里巴巴](jobs/阿里巴巴.md)（7 个岗位）
 
-_AI/Agent产品 2 / Agent评测 2 / 测试开发(AI方向) 2 / 大模型/AI测试 2_
+_Agent评测 2 / AI/Agent产品 2 / 大模型/AI测试 2 / 测试开发(AI方向) 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [千问事业部-AI应用&Agent测试专家-杭州/上海/深圳](https://talent.quark.cn/off-campus/position-detail?positionId=100010700004) | 大模型/AI测试 | 深圳 |  |
 | [千问事业部-测试Agent&平台开发专家-杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100013260019) | 大模型/AI测试 | 杭州 |  |
-| [千问事业部-Agent高级测试开发工程师-杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100019300009) | 测试开发(AI方向) | 杭州 |  |
 | [智元科技-测试开发工程师-智能助手](https://talent.quark.cn/off-campus/position-detail?positionId=100018600002) | 测试开发(AI方向) | 杭州 |  |
 | [千问事业部-AI agent评测平台产品-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100033200001) | Agent评测 | 北京 |  |
 | [千问事业部-内容安全自动化评测专家-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100018640025) | Agent评测 | 北京 |  |
@@ -273,8 +271,8 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 48 |
-| 深圳 | 16 |
-| 杭州 | 9 |
+| 深圳 | 15 |
+| 杭州 | 8 |
 | Shanghai | 8 |
 | 广州 | 6 |
 | 上海 | 4 |
@@ -284,4 +282,4 @@ _Agent评测 4 / 测试开发(AI方向) 1_
 
 ---
 
-*数据自动采集，更新于 2026-09-13 13:53。仅供求职参考。*
+*数据自动采集，更新于 2026-09-14 05:55。仅供求职参考。*
