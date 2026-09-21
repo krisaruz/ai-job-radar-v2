@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-20 13:39 | 岗位总数: **121**
+> 更新时间: 2026-09-21 06:00 | 岗位总数: **122**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,8 +13,8 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 31 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
 
 ## 各公司岗位
@@ -52,12 +52,13 @@ _Agent评测 2_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 
-### [字节跳动](jobs/字节跳动.md)（1 个岗位）
+### [字节跳动](jobs/字节跳动.md)（2 个岗位）
 
-_Agent评测 1_
+_Agent评测 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [搜索评测产品经理（综搜方向）-TikTok](https://jobs.bytedance.com/experienced/position/7629288674124712197/detail) | Agent评测 |  | 产品 - 产品经理 |
 | [豆包语音大模型评测工程师 - Data语音](https://jobs.bytedance.com/experienced/position/7654484200146471221/detail) | Agent评测 |  | 研发 |
 
 ### [小米](jobs/小米.md)（2 个岗位）
@@ -210,7 +211,7 @@ _测试开发(AI方向) 1_
 
 ### [腾讯](jobs/腾讯.md)（17 个岗位）
 
-_Agent评测 6 / 测试开发(AI方向) 5 / AI/Agent产品 4 / 大模型/AI测试 2_
+_Agent评测 7 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -220,10 +221,10 @@ _Agent评测 6 / 测试开发(AI方向) 5 / AI/Agent产品 4 / 大模型/AI测�
 | [大模型存储测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100835560338927616) | 测试开发(AI方向) | 北京 | TEG |
 | [大模型存储测试开发工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2100502397540548608) | 测试开发(AI方向) | 深圳 | TEG |
 | [微信-小程序测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2066499012814618624) | 测试开发(AI方向) | 广州 | WXG |
-| [测试开发工程师-AI软件测试方向](http://careers.tencent.com/jobdesc.html?postId=2044704007120912384) | 测试开发(AI方向) | 深圳 | TEG |
 | [具身大模型评测与数据工程师](http://careers.tencent.com/jobdesc.html?postId=2059891450371555328) | Agent评测 | 深圳 | TEG |
 | [大模型评测平台研发工程师](http://careers.tencent.com/jobdesc.html?postId=2092548112634789888) | Agent评测 | 深圳 | CSIG |
 | [微信基础-大模型评测产品经理](http://careers.tencent.com/jobdesc.html?postId=2059948192291799040) | Agent评测 | 广州 | WXG |
+| [微信小程序-大模型评测工程师-智能体方向](http://careers.tencent.com/jobdesc.html?postId=2089604837229641728) | Agent评测 | 广州 | WXG |
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
 | [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
@@ -280,14 +281,14 @@ _Agent评测 3_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 51 |
-| 深圳 | 15 |
+| 深圳 | 14 |
 | 杭州 | 8 |
 | Shanghai | 8 |
-| 广州 | 5 |
+| 广州 | 6 |
 | 上海 | 5 |
 | 成都 | 1 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-09-20 13:39。仅供求职参考。*
+*数据自动采集，更新于 2026-09-21 06:00。仅供求职参考。*
