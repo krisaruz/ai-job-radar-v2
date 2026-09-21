@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-21 06:00 | 岗位总数: **122**
+> 更新时间: 2026-09-21 15:47 | 岗位总数: **123**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
 
 ## 各公司岗位
@@ -82,9 +82,9 @@ _Agent评测 5_
 | [【Dots】大模型评测算法工程师](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
 
-### [快手](jobs/快手.md)（13 个岗位）
+### [快手](jobs/快手.md)（14 个岗位）
 
-_Agent评测 8 / 测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产品 1_
+_Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -99,6 +99,7 @@ _Agent评测 8 / 测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产�
 | [大模型评测算法工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30460) | Agent评测 |  |  |
 | [文生图/可控式编辑大模型评测工程师（可灵AI专项）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/27559) | Agent评测 |  |  |
 | [训练数据质量评测专家 -【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32325) | Agent评测 |  |  |
+| [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
 | [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
@@ -291,4 +292,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-09-21 06:00。仅供求职参考。*
+*数据自动采集，更新于 2026-09-21 15:47。仅供求职参考。*
