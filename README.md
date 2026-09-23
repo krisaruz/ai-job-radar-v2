@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-23 05:45 | 岗位总数: **123**
+> 更新时间: 2026-09-23 14:19 | 岗位总数: **126**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,8 +13,8 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 31 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
 
 ## 各公司岗位
@@ -147,15 +147,16 @@ _测试开发(AI方向) 5 / AI/Agent产品 2 / Agent评测 1 / 大模型/AI测�
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
-### [百度](jobs/百度.md)（18 个岗位）
+### [百度](jobs/百度.md)（19 个岗位）
 
-_AI/Agent产品 9 / Agent评测 5 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
+_AI/Agent产品 9 / Agent评测 5 / 测试开发(AI方向) 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI效能与质量保障（J104103）](https://talent.baidu.com/jobs/detail/SOCIAL/e061fd99-2599-4059-b277-f9c921191544) | 大模型/AI测试 | 深圳 | 技术 |
 | [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
+| [上海-AI测试开发工程师(J101057)](https://talent.baidu.com/jobs/detail/SOCIAL/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6) | 测试开发(AI方向) | 上海 |  |
 | [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
 | [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/detail/SOCIAL/aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
 | [具身智能仿真评测研发工程师（J105511）](https://talent.baidu.com/jobs/detail/SOCIAL/c5d32c8f-841e-43e0-a8a7-150246eed239) | Agent评测 | 北京 | 技术 |
@@ -227,13 +228,14 @@ _Agent评测 7 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测�
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
 
-### [莉莉丝](jobs/莉莉丝.md)（1 个岗位）
+### [莉莉丝](jobs/莉莉丝.md)（2 个岗位）
 
-_大模型/AI测试 1_
+_测试开发(AI方向) 1 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [资深测试工程师（发行方向）](https://lilithgames.jobs.feishu.cn/career/position/7606016773801019694/detail) | 大模型/AI测试 | 上海 | 测试 |
+| [平台测试开发工程师](https://lilithgames.jobs.feishu.cn/career/position/7688674315667261715/detail) | 测试开发(AI方向) | 上海 | 测试 |
 
 ### [阿里巴巴](jobs/阿里巴巴.md)（8 个岗位）
 
@@ -258,15 +260,16 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [AI 测试工程师](https://01ai.jobs.feishu.cn/index/position/7686751993624807722/detail) | 大模型/AI测试 | 北京 | 互联网 / 电子 / 网游 |
 
-### [面壁智能](jobs/面壁智能.md)（3 个岗位）
+### [面壁智能](jobs/面壁智能.md)（4 个岗位）
 
-_Agent评测 3_
+_Agent评测 4_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI 评测工程师（大模型 / 智能体方向）](https://modelbest.jobs.feishu.cn/career/position/7685969476017555754/detail) | Agent评测 | 北京 |  |
 | [大模型评测算法](https://modelbest.jobs.feishu.cn/career/position/7664526821957896474/detail) | Agent评测 | 北京 |  |
 | [大模型评测算法工程师](https://modelbest.jobs.feishu.cn/career/position/7583968750891551002/detail) | Agent评测 | 北京 |  |
+| [评测工程师 - 智能体方向](https://modelbest.jobs.feishu.cn/career/position/7684674837126236457/detail) | Agent评测 | 北京 |  |
 
 ---
 
@@ -274,15 +277,15 @@ _Agent评测 3_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 52 |
+| 北京 | 53 |
 | 深圳 | 14 |
+| 上海 | 8 |
 | 杭州 | 8 |
 | Shanghai | 8 |
-| 上海 | 6 |
 | 广州 | 5 |
 | 成都 | 1 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-09-23 05:45。仅供求职参考。*
+*数据自动采集，更新于 2026-09-23 14:19。仅供求职参考。*
