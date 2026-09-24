@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-09-23 14:19 | 岗位总数: **126**
+> 更新时间: 2026-09-24 06:02 | 岗位总数: **126**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,8 +13,8 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 31 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 42 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
 
 ## 各公司岗位
@@ -53,12 +53,13 @@ _Agent评测 2 / AI/Agent产品 1_
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [字节跳动](jobs/字节跳动.md)（1 个岗位）
+### [字节跳动](jobs/字节跳动.md)（2 个岗位）
 
-_Agent评测 1_
+_Agent评测 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [大模型/Agent评测工程师-剪映](https://jobs.bytedance.com/experienced/position/7642653985177864501/detail) | Agent评测 |  | 研发 |
 | [搜索评测产品经理（综搜方向）-TikTok](https://jobs.bytedance.com/experienced/position/7629288674124712197/detail) | Agent评测 |  | 产品 - 产品经理 |
 
 ### [小米](jobs/小米.md)（2 个岗位）
@@ -147,16 +148,15 @@ _测试开发(AI方向) 5 / AI/Agent产品 2 / Agent评测 1 / 大模型/AI测�
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
-### [百度](jobs/百度.md)（19 个岗位）
+### [百度](jobs/百度.md)（18 个岗位）
 
-_AI/Agent产品 9 / Agent评测 5 / 测试开发(AI方向) 4 / 大模型/AI测试 1_
+_AI/Agent产品 9 / Agent评测 5 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI效能与质量保障（J104103）](https://talent.baidu.com/jobs/detail/SOCIAL/e061fd99-2599-4059-b277-f9c921191544) | 大模型/AI测试 | 深圳 | 技术 |
 | [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
-| [上海-AI测试开发工程师(J101057)](https://talent.baidu.com/jobs/detail/SOCIAL/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6) | 测试开发(AI方向) | 上海 |  |
 | [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
 | [DuMate策略PM（Agent评测方向）（J104381）](https://talent.baidu.com/jobs/detail/SOCIAL/aaef5256-2017-4489-85bd-3052d650f061) | Agent评测 | 北京 | 产品 |
 | [具身智能仿真评测研发工程师（J105511）](https://talent.baidu.com/jobs/detail/SOCIAL/c5d32c8f-841e-43e0-a8a7-150246eed239) | Agent评测 | 北京 | 技术 |
@@ -279,13 +279,13 @@ _Agent评测 4_
 | --- | --- |
 | 北京 | 53 |
 | 深圳 | 14 |
-| 上海 | 8 |
 | 杭州 | 8 |
 | Shanghai | 8 |
+| 上海 | 7 |
 | 广州 | 5 |
 | 成都 | 1 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-09-23 14:19。仅供求职参考。*
+*数据自动采集，更新于 2026-09-24 06:02。仅供求职参考。*
