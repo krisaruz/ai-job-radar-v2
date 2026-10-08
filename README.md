@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-08 07:08 | 岗位总数: **122**
+> 更新时间: 2026-10-08 16:18 | 岗位总数: **120**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,7 +13,7 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
@@ -130,16 +130,14 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（9 个岗位）
+### [滴滴](jobs/滴滴.md)（7 个岗位）
 
-_测试开发(AI方向) 5 / AI/Agent产品 2 / 大模型/AI测试 1 / Agent评测 1_
+_测试开发(AI方向) 3 / AI/Agent产品 2 / 大模型/AI测试 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [服务器端QA工程师](https://talent.didiglobal.com/social/p/66370) | 大模型/AI测试 | 上海 | Fintech Technology |
-| [测试开发工程师](https://talent.didiglobal.com/social/p/65995) | 测试开发(AI方向) | 北京 | 数据平台事业部 |
 | [资深服务端测试开发工程师-质量AI](https://talent.didiglobal.com/social/p/66003) | 测试开发(AI方向) | 北京 | Artificial Intelligence |
-| [资深测试开发工程师(Agent测评工程师)](https://talent.didiglobal.com/social/p/65636) | 测试开发(AI方向) | 成都 | 企业级事业部 |
 | [资深测试开发工程师-巴西支付](https://talent.didiglobal.com/social/p/66203) | 测试开发(AI方向) | 杭州 | Fintech Technology |
 | [高级测试开发工程师](https://talent.didiglobal.com/social/p/65812) | 测试开发(AI方向) | 杭州 | ABC平台 |
 | [Agent资深评测工程师](https://talent.didiglobal.com/social/p/65511) | Agent评测 | 北京 | AI Dev |
@@ -273,15 +271,14 @@ _Agent评测 4_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 53 |
+| 北京 | 52 |
 | 深圳 | 13 |
 | 杭州 | 8 |
 | 上海 | 7 |
 | Shanghai | 7 |
 | 广州 | 4 |
-| 成都 | 1 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-10-08 07:08。仅供求职参考。*
+*数据自动采集，更新于 2026-10-08 16:18。仅供求职参考。*
