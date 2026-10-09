@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-08 16:18 | 岗位总数: **120**
+> 更新时间: 2026-10-09 07:17 | 岗位总数: **120**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,8 +13,8 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
 ## 各公司岗位
@@ -82,6 +82,14 @@ _Agent评测 5_
 | [Dots-大模型能力评测师](https://job.xiaohongshu.com/social/position/22455) | Agent评测 | 北京 | 大模型 |
 | [【Dots】大模型评测算法工程师](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
+
+### [得物](jobs/得物.md)（1 个岗位）
+
+_测试开发(AI方向) 1_
+
+| 岗位 | 方向 | 城市 | 部门 |
+| --- | --- | --- | --- |
+| [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
 ### [快手](jobs/快手.md)（13 个岗位）
 
@@ -254,14 +262,13 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [AI 测试工程师](https://01ai.jobs.feishu.cn/index/position/7686751993624807722/detail) | 大模型/AI测试 | 北京 | 互联网 / 电子 / 网游 |
 
-### [面壁智能](jobs/面壁智能.md)（4 个岗位）
+### [面壁智能](jobs/面壁智能.md)（3 个岗位）
 
-_Agent评测 4_
+_Agent评测 3_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI 评测工程师（大模型 / 智能体方向）](https://modelbest.jobs.feishu.cn/career/position/7685969476017555754/detail) | Agent评测 | 北京 |  |
-| [大模型评测算法](https://modelbest.jobs.feishu.cn/career/position/7664526821957896474/detail) | Agent评测 | 北京 |  |
 | [大模型评测算法工程师](https://modelbest.jobs.feishu.cn/career/position/7583968750891551002/detail) | Agent评测 | 北京 |  |
 | [评测工程师 - 智能体方向](https://modelbest.jobs.feishu.cn/career/position/7684674837126236457/detail) | Agent评测 | 北京 |  |
 
@@ -271,14 +278,14 @@ _Agent评测 4_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 52 |
+| 北京 | 51 |
 | 深圳 | 13 |
+| 上海 | 8 |
 | 杭州 | 8 |
-| 上海 | 7 |
 | Shanghai | 7 |
 | 广州 | 4 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-10-08 16:18。仅供求职参考。*
+*数据自动采集，更新于 2026-10-09 07:17。仅供求职参考。*
