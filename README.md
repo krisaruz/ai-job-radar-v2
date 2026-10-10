@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-09 16:01 | 岗位总数: **120**
+> 更新时间: 2026-10-10 06:56 | 岗位总数: **121**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,19 +12,20 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 24 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 25 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
 
 ## 各公司岗位
 
-### [MiniMax](jobs/MiniMax.md)（8 个岗位）
+### [MiniMax](jobs/MiniMax.md)（9 个岗位）
 
-_测试开发(AI方向) 3 / AI/Agent产品 3 / Agent评测 2_
+_测试开发(AI方向) 3 / AI/Agent产品 3 / Agent评测 2 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [测试工程师（Agent方向）](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7694877451201841449/detail) | 大模型/AI测试 | 上海 | 互联网 / 电子 / 网游 |
 | [Agent测试开发工程师-开放平台](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7495670973120645388/detail) | 测试开发(AI方向) | 北京 | 测试 |
 | [Agent测试开发工程师-支付](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651601796775069971/detail) | 测试开发(AI方向) | 北京 | 测试 |
 | [Senior测试开发工程师-大模型方向](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651581813773961526/detail) | 测试开发(AI方向) | 北京 | 研发 |
@@ -138,14 +139,15 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（7 个岗位）
+### [滴滴](jobs/滴滴.md)（8 个岗位）
 
-_测试开发(AI方向) 3 / AI/Agent产品 2 / 大模型/AI测试 1 / Agent评测 1_
+_测试开发(AI方向) 4 / AI/Agent产品 2 / 大模型/AI测试 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [服务器端QA工程师](https://talent.didiglobal.com/social/p/66370) | 大模型/AI测试 | 上海 | Fintech Technology |
 | [资深服务端测试开发工程师-质量AI](https://talent.didiglobal.com/social/p/66003) | 测试开发(AI方向) | 北京 | Artificial Intelligence |
+| [资深测试开发工程师(Agent测评工程师)](https://talent.didiglobal.com/social/p/65636) | 测试开发(AI方向) | 成都 | 企业级事业部 |
 | [资深测试开发工程师-巴西支付](https://talent.didiglobal.com/social/p/66203) | 测试开发(AI方向) | 杭州 | Fintech Technology |
 | [高级测试开发工程师](https://talent.didiglobal.com/social/p/65812) | 测试开发(AI方向) | 杭州 | ABC平台 |
 | [Agent资深评测工程师](https://talent.didiglobal.com/social/p/65511) | Agent评测 | 北京 | AI Dev |
@@ -208,9 +210,9 @@ _测试开发(AI方向) 2 / 大模型/AI测试 1 / AI/Agent产品 1_
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 | [云商-AI产品经理（Agent交付方向）](https://hr.163.com/job-detail.html?id=77231) | AI/Agent产品 | 杭州 | 智企事业部 |
 
-### [腾讯](jobs/腾讯.md)（15 个岗位）
+### [腾讯](jobs/腾讯.md)（14 个岗位）
 
-_Agent评测 6 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
+_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -220,7 +222,6 @@ _Agent评测 6 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测�
 | [大模型存储测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100835560338927616) | 测试开发(AI方向) | 北京 | TEG |
 | [大模型存储测试开发工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2100502397540548608) | 测试开发(AI方向) | 深圳 | TEG |
 | [具身大模型评测与数据工程师](http://careers.tencent.com/jobdesc.html?postId=2059891450371555328) | Agent评测 | 深圳 | TEG |
-| [微信基础-大模型评测产品经理](http://careers.tencent.com/jobdesc.html?postId=2059948192291799040) | Agent评测 | 广州 | WXG |
 | [微信小程序-大模型评测工程师-智能体方向](http://careers.tencent.com/jobdesc.html?postId=2089604837229641728) | Agent评测 | 广州 | WXG |
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
@@ -280,12 +281,13 @@ _Agent评测 3_
 | --- | --- |
 | 北京 | 51 |
 | 深圳 | 13 |
-| 上海 | 8 |
+| 上海 | 9 |
 | 杭州 | 8 |
 | Shanghai | 7 |
-| 广州 | 4 |
+| 广州 | 3 |
+| 成都 | 1 |
 | 西安 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-10-09 16:01。仅供求职参考。*
+*数据自动采集，更新于 2026-10-10 06:56。仅供求职参考。*
