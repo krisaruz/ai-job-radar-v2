@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-12 07:05 | 岗位总数: **124**
+> 更新时间: 2026-10-12 18:40 | 岗位总数: **124**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,8 +14,8 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 27 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 27 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
 
 ## 各公司岗位
 
@@ -92,9 +92,9 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
-### [快手](jobs/快手.md)（13 个岗位）
+### [快手](jobs/快手.md)（14 个岗位）
 
-_Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
+_Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -111,6 +111,7 @@ _Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
 | [训练数据质量评测专家 -【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32325) | Agent评测 |  |  |
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
+| [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
 ### [携程](jobs/携程.md)（7 个岗位）
 
@@ -197,7 +198,7 @@ _大模型/AI测试 11 / 测试开发(AI方向) 1 / Agent评测 1_
 | [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=f1073fbe-d8a6-403d-8daf-ecd1fee01832) | 大模型/AI测试 |  |  |
 | [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=740f7bad-9562-44a3-b2b7-336b12fc86ed) | 大模型/AI测试 |  |  |
 | [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=b7dc8c3d-afed-47f3-9881-86b6ffa3add2) | 大模型/AI测试 |  |  |
-| [AI算法测试开发工程师(J13365)](https://iflytek.zhiye.com/4/detail?jobAdId=bdb63a08-7b4b-4415-9e3b-84b78e6c3e87) | 测试开发(AI方向) |  |  |
+| [AI算法测试开发工程师（大量HC）(J13365)](https://iflytek.zhiye.com/4/detail?jobAdId=bdb63a08-7b4b-4415-9e3b-84b78e6c3e87) | 测试开发(AI方向) |  |  |
 | [AI研究院-研究算法工程师-语音评测](https://iflytek.zhiye.com/4/detail?jobAdId=d7eba20c-12c5-41c7-a4bc-7a498e213951) | Agent评测 |  |  |
 
 ### [网易](jobs/网易.md)（5 个岗位）
@@ -220,9 +221,9 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [资深服务端测试工程师（七日世界）](https://hr.163.com/job-detail.html?id=78046) | 大模型/AI测试 | 上海 | 质量保障中心 |
 
-### [腾讯](jobs/腾讯.md)（14 个岗位）
+### [腾讯](jobs/腾讯.md)（13 个岗位）
 
-_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
+_测试开发(AI方向) 4 / AI/Agent产品 4 / Agent评测 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -235,7 +236,6 @@ _Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测�
 | [微信小程序-大模型评测工程师-智能体方向](http://careers.tencent.com/jobdesc.html?postId=2089604837229641728) | Agent评测 | 广州 | WXG |
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
-| [腾讯游戏-大模型评测专家](http://careers.tencent.com/jobdesc.html?postId=2072330916012933120) | Agent评测 | 杭州 | IEG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [QQ-Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2077347119940939776) | AI/Agent产品 | 深圳 | PCG |
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
@@ -292,7 +292,7 @@ _Agent评测 3_
 | 北京 | 52 |
 | 深圳 | 13 |
 | 上海 | 11 |
-| 杭州 | 8 |
+| 杭州 | 7 |
 | Shanghai | 7 |
 | 广州 | 3 |
 | 成都 | 1 |
@@ -300,4 +300,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-12 07:05。仅供求职参考。*
+*数据自动采集，更新于 2026-10-12 18:40。仅供求职参考。*
