@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-13 16:52 | 岗位总数: **126**
+> 更新时间: 2026-10-14 05:58 | 岗位总数: **128**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,8 +14,8 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 30 |
 
 ## 各公司岗位
 
@@ -71,12 +71,13 @@ _测试开发(AI方向) 2_
 | [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522386109171892333/detail) | 测试开发(AI方向) | 北京 | 手机部 |
 | [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522384257327939693/detail) | 测试开发(AI方向) | 西安 | 手机部 |
 
-### [小红书](jobs/小红书.md)（5 个岗位）
+### [小红书](jobs/小红书.md)（6 个岗位）
 
-_Agent评测 5_
+_Agent评测 6_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [AI 评测平台 Leader](https://job.xiaohongshu.com/social/position/21976) | Agent评测 | 上海 | 后端开发 |
 | [AI搜索评测产品经理](https://job.xiaohongshu.com/social/position/20081) | Agent评测 | 北京 | 产品经理 |
 | [Agent 评估与进化工程师 - Agent Evaluation & Evolution Engineer](https://job.xiaohongshu.com/social/position/21896) | Agent评测 | 北京 | 机器学习平台 |
 | [Dots-大模型能力评测师](https://job.xiaohongshu.com/social/position/22455) | Agent评测 | 北京 | 大模型 |
@@ -221,6 +222,14 @@ _大模型/AI测试 2_
 | [资深服务端测试工程师（七日世界）](https://hr.163.com/job-detail.html?id=78046) | 大模型/AI测试 | 上海 | 质量保障中心 |
 | [高级/资深测试工程师](https://hr.163.com/job-detail.html?id=76383) | 大模型/AI测试 | 杭州 | 支付事业部 |
 
+### [美团](jobs/美团.md)（1 个岗位）
+
+_AI/Agent产品 1_
+
+| 岗位 | 方向 | 城市 | 部门 |
+| --- | --- | --- | --- |
+| [AI Agent 产品经理](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4780465156&highlightType=social) | AI/Agent产品 |  |  |
+
 ### [腾讯](jobs/腾讯.md)（14 个岗位）
 
 _Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
@@ -253,7 +262,7 @@ _测试开发(AI方向) 1 / 大模型/AI测试 1_
 
 ### [阿里巴巴](jobs/阿里巴巴.md)（9 个岗位）
 
-_AI/Agent产品 4 / 大模型/AI测试 2 / Agent评测 2 / 测试开发(AI方向) 1_
+_AI/Agent产品 4 / Agent评测 2 / 大模型/AI测试 2 / 测试开发(AI方向) 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -293,7 +302,7 @@ _Agent评测 3_
 | --- | --- |
 | 北京 | 53 |
 | 深圳 | 14 |
-| 上海 | 11 |
+| 上海 | 12 |
 | 杭州 | 8 |
 | Shanghai | 7 |
 | 广州 | 3 |
@@ -302,4 +311,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-13 16:52。仅供求职参考。*
+*数据自动采集，更新于 2026-10-14 05:58。仅供求职参考。*
