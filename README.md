@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-15 05:45 | 岗位总数: **126**
+> 更新时间: 2026-10-15 14:09 | 岗位总数: **127**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
 
 ## 各公司岗位
@@ -156,9 +156,9 @@ _测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 2 / Agent评�
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
-### [百度](jobs/百度.md)（19 个岗位）
+### [百度](jobs/百度.md)（20 个岗位）
 
-_AI/Agent产品 8 / Agent评测 6 / 测试开发(AI方向) 4 / 大模型/AI测试 1_
+_AI/Agent产品 9 / Agent评测 6 / 测试开发(AI方向) 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -174,6 +174,7 @@ _AI/Agent产品 8 / Agent评测 6 / 测试开发(AI方向) 4 / 大模型/AI测�
 | [大模型评测算法工程师（J100902）](https://talent.baidu.com/jobs/detail/SOCIAL/24c9e591-75c8-42bd-b531-522b53fc47ac) | Agent评测 | 北京 | 技术 |
 | [算法工程师（Token供应商评测与风控算法）（J106388）](https://talent.baidu.com/jobs/detail/SOCIAL/3d7f7d58-93b2-47c9-9591-12add74ccde4) | Agent评测 | 北京 | 技术 |
 | [AI Agent产品经理（J105400）](https://talent.baidu.com/jobs/detail/SOCIAL/34a6f0bf-8068-4e39-9337-e3d4cc6d708f) | AI/Agent产品 | 北京 | 产品 |
+| [AI Agent产品经理（J106491）](https://talent.baidu.com/jobs/detail/SOCIAL/ac9ef733-b95f-4f47-a68c-e754e61934c0) | AI/Agent产品 | 北京 | 产品 |
 | [AI 产品经理（私域Agent 方向）（J98474）](https://talent.baidu.com/jobs/detail/SOCIAL/037e198c-d1db-4607-9a68-041d04e309c4) | AI/Agent产品 | 北京 | 产品 |
 | [Agent产品经理（电商方向）（J99416）](https://talent.baidu.com/jobs/detail/SOCIAL/bfc48fb5-5eee-46b7-a03f-5e8529b49277) | AI/Agent产品 | 北京 | 产品 |
 | [agent产品（J101151）](https://talent.baidu.com/jobs/detail/SOCIAL/dd312460-ab60-4dde-ad83-2d89e206c6de) | AI/Agent产品 | 北京 | 产品 |
@@ -223,11 +224,11 @@ _大模型/AI测试 1_
 
 ### [美团](jobs/美团.md)（1 个岗位）
 
-_AI/Agent产品 1_
+_Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI Agent 产品经理](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4780465156&highlightType=social) | AI/Agent产品 |  |  |
+| [AI医疗评测产品经理](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4842769542&highlightType=social) | Agent评测 |  |  |
 
 ### [腾讯](jobs/腾讯.md)（13 个岗位）
 
@@ -298,7 +299,7 @@ _Agent评测 3_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 53 |
+| 北京 | 54 |
 | 深圳 | 13 |
 | 上海 | 11 |
 | 杭州 | 8 |
@@ -309,4 +310,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-15 05:45。仅供求职参考。*
+*数据自动采集，更新于 2026-10-15 14:09。仅供求职参考。*
