@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-16 13:58 | 岗位总数: **126**
+> 更新时间: 2026-10-17 05:32 | 岗位总数: **125**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
 
 ## 各公司岗位
@@ -53,14 +53,6 @@ _Agent评测 2 / AI/Agent产品 1_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
-
-### [字节跳动](jobs/字节跳动.md)（1 个岗位）
-
-_Agent评测 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [搜索评测产品经理（综搜方向）-TikTok](https://jobs.bytedance.com/experienced/position/7629288674124712197/detail) | Agent评测 |  | 产品 - 产品经理 |
 
 ### [小米](jobs/小米.md)（2 个岗位）
 
@@ -309,4 +301,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-16 13:58。仅供求职参考。*
+*数据自动采集，更新于 2026-10-17 05:32。仅供求职参考。*
