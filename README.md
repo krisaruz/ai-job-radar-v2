@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-17 12:55 | 岗位总数: **125**
+> 更新时间: 2026-10-18 05:38 | 岗位总数: **124**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 27 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 28 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
 
 ## 各公司岗位
 
@@ -53,6 +53,14 @@ _Agent评测 2 / AI/Agent产品 1_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
+
+### [字节跳动](jobs/字节跳动.md)（1 个岗位）
+
+_AI/Agent产品 1_
+
+| 岗位 | 方向 | 城市 | 部门 |
+| --- | --- | --- | --- |
+| [高级AIGC产品经理（投稿工具）-抖音](https://jobs.bytedance.com/experienced/position/7630820081880402181/detail) | AI/Agent产品 |  | 产品 |
 
 ### [小米](jobs/小米.md)（2 个岗位）
 
@@ -205,22 +213,6 @@ _大模型/AI测试 2 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 | [云商-AI产品经理（Agent交付方向）](https://hr.163.com/job-detail.html?id=77231) | AI/Agent产品 | 杭州 | 智企事业部 |
 
-### [网易游戏](jobs/网易游戏.md)（1 个岗位）
-
-_大模型/AI测试 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [高级/资深测试工程师](https://hr.163.com/job-detail.html?id=76383) | 大模型/AI测试 | 杭州 | 支付事业部 |
-
-### [美团](jobs/美团.md)（1 个岗位）
-
-_Agent评测 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [AI医疗评测产品经理](https://zhaopin.meituan.com/web/position/detail?jobUnionId=4842769542&highlightType=social) | Agent评测 |  |  |
-
 ### [腾讯](jobs/腾讯.md)（13 个岗位）
 
 _Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 3 / 大模型/AI测试 1_
@@ -293,7 +285,7 @@ _Agent评测 3_
 | 北京 | 54 |
 | 深圳 | 13 |
 | 上海 | 11 |
-| 杭州 | 8 |
+| 杭州 | 7 |
 | Shanghai | 7 |
 | 广州 | 3 |
 | 成都 | 1 |
@@ -301,4 +293,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-17 12:55。仅供求职参考。*
+*数据自动采集，更新于 2026-10-18 05:38。仅供求职参考。*
