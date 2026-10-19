@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-19 05:50 | 岗位总数: **123**
+> 更新时间: 2026-10-19 16:17 | 岗位总数: **124**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 29 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 30 |
 
 ## 各公司岗位
 
@@ -212,9 +212,9 @@ _大模型/AI测试 2 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 | [云商-AI产品经理（Agent交付方向）](https://hr.163.com/job-detail.html?id=77231) | AI/Agent产品 | 杭州 | 智企事业部 |
 
-### [腾讯](jobs/腾讯.md)（13 个岗位）
+### [腾讯](jobs/腾讯.md)（14 个岗位）
 
-_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 3 / 大模型/AI测试 1_
+_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -231,6 +231,7 @@ _Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 3 / 大模型/AI测�
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
+| [腾讯元宝-大模型策略产品-语音方向](http://careers.tencent.com/jobdesc.html?postId=2101997688525602816) | AI/Agent产品 | 北京 | CSIG |
 
 ### [莉莉丝](jobs/莉莉丝.md)（2 个岗位）
 
@@ -281,7 +282,7 @@ _Agent评测 3_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 54 |
+| 北京 | 55 |
 | 深圳 | 13 |
 | 上海 | 11 |
 | 杭州 | 7 |
@@ -291,4 +292,4 @@ _Agent评测 3_
 
 ---
 
-*数据自动采集，更新于 2026-10-19 05:50。仅供求职参考。*
+*数据自动采集，更新于 2026-10-19 16:17。仅供求职参考。*
