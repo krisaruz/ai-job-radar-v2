@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-20 05:52 | 岗位总数: **126**
+> 更新时间: 2026-10-20 14:18 | 岗位总数: **125**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,7 +12,7 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 27 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 30 |
@@ -112,14 +112,12 @@ _Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1_
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
 
-### [携程](jobs/携程.md)（7 个岗位）
+### [携程](jobs/携程.md)（5 个岗位）
 
-_测试开发(AI方向) 3 / 大模型/AI测试 3 / AI/Agent产品 1_
+_测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI QA(MJ036437)](https://job.ctrip.com/#/experienced/job-detail/MJ036437) | 大模型/AI测试 | Shanghai | International Business |
-| [QA Manager(MJ036438)](https://job.ctrip.com/#/experienced/job-detail/MJ036438) | 大模型/AI测试 | Shanghai | International Business |
 | [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
 | [测试开发工程师(MJ035949)](https://job.ctrip.com/#/experienced/job-detail/MJ035949) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
@@ -214,12 +212,13 @@ _大模型/AI测试 2 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 | [云商-AI产品经理（Agent交付方向）](https://hr.163.com/job-detail.html?id=77231) | AI/Agent产品 | 杭州 | 智企事业部 |
 
-### [腾讯](jobs/腾讯.md)（14 个岗位）
+### [腾讯](jobs/腾讯.md)（15 个岗位）
 
-_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 1_
+_Agent评测 5 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [大模型测试工程师（北京/深圳）](http://careers.tencent.com/jobdesc.html?postId=2079125521983254528) | 大模型/AI测试 | 北京 | TEG |
 | [腾讯云-AI平台测试工程师](http://careers.tencent.com/jobdesc.html?postId=2095048211722059776) | 大模型/AI测试 | 深圳 | CSIG |
 | [AI Agent测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2088194556695855104) | 测试开发(AI方向) | 深圳 | TEG |
 | [企业微信-测试开发工程师-AI测试提效方向](http://careers.tencent.com/jobdesc.html?postId=2098283820326502400) | 测试开发(AI方向) | 广州 | WXG |
@@ -253,7 +252,7 @@ _AI/Agent产品 4 / Agent评测 2 / 大模型/AI测试 2 / 测试开发(AI方向
 | [千问事业部-AI应用&Agent测试专家-杭州/上海/深圳](https://talent.quark.cn/off-campus/position-detail?positionId=100010700004) | 大模型/AI测试 | 深圳 |  |
 | [千问事业部-测试Agent&平台开发专家-杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100013260019) | 大模型/AI测试 | 杭州 |  |
 | [智元科技-测试开发工程师-智能助手](https://talent.quark.cn/off-campus/position-detail?positionId=100018600002) | 测试开发(AI方向) | 杭州 |  |
-| [千问事业部-AI agent评测平台产品-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100033200001) | Agent评测 | 北京 |  |
+| [千问事业部-AI agent评测平台产品经理-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100033200001) | Agent评测 | 北京 |  |
 | [千问事业部-内容安全自动化评测专家-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100018640025) | Agent评测 | 北京 |  |
 | [千问事业部-AI agent产品经理-消费决策方向](https://talent.quark.cn/off-campus/position-detail?positionId=100041880001) | AI/Agent产品 | 北京 |  |
 | [千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100010900011) | AI/Agent产品 | 北京 |  |
@@ -284,14 +283,14 @@ _Agent评测 3_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 56 |
+| 北京 | 57 |
 | 深圳 | 13 |
 | 上海 | 12 |
 | 杭州 | 7 |
-| Shanghai | 7 |
+| Shanghai | 5 |
 | 广州 | 3 |
 | 成都 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-10-20 05:52。仅供求职参考。*
+*数据自动采集，更新于 2026-10-20 14:18。仅供求职参考。*
