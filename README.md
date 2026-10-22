@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-21 14:34 | 岗位总数: **126**
+> 更新时间: 2026-10-22 05:57 | 岗位总数: **125**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 27 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 32 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 31 |
 
 ## 各公司岗位
 
@@ -53,15 +53,13 @@ _Agent评测 2 / AI/Agent产品 1_
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [字节跳动](jobs/字节跳动.md)（3 个岗位）
+### [字节跳动](jobs/字节跳动.md)（1 个岗位）
 
-_AI/Agent产品 2 / Agent评测 1_
+_Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AIGC效果评测产品（创作投稿方向） - 抖音效果与创作](https://jobs.bytedance.com/experienced/position/7657774830384974133/detail) | Agent评测 |  | 产品 - 产品经理 |
-| [AI Agent产品经理 - 剪映CapCut](https://jobs.bytedance.com/experienced/position/7666042168203348229/detail) | AI/Agent产品 |  | 产品 |
-| [高级AIGC产品经理（投稿工具）-抖音](https://jobs.bytedance.com/experienced/position/7630820081880402181/detail) | AI/Agent产品 |  | 产品 |
 
 ### [小米](jobs/小米.md)（1 个岗位）
 
@@ -214,9 +212,9 @@ _大模型/AI测试 2 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 | [云商-AI产品经理（Agent交付方向）](https://hr.163.com/job-detail.html?id=77231) | AI/Agent产品 | 杭州 | 智企事业部 |
 
-### [腾讯](jobs/腾讯.md)（16 个岗位）
+### [腾讯](jobs/腾讯.md)（17 个岗位）
 
-_Agent评测 6 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测试 2_
+_Agent评测 6 / AI/Agent产品 5 / 测试开发(AI方向) 4 / 大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -234,6 +232,7 @@ _Agent评测 6 / 测试开发(AI方向) 4 / AI/Agent产品 4 / 大模型/AI测�
 | [混元大模型评测算法研究员（北京）](http://careers.tencent.com/jobdesc.html?postId=1915233782491881472) | Agent评测 | 深圳 | TEG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
+| [服务Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2113112723431796736) | AI/Agent产品 | 深圳 | CSIG |
 | [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
 | [腾讯元宝-大模型策略产品-语音方向](http://careers.tencent.com/jobdesc.html?postId=2101997688525602816) | AI/Agent产品 | 北京 | CSIG |
 
@@ -285,7 +284,7 @@ _Agent评测 1_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 54 |
-| 深圳 | 14 |
+| 深圳 | 15 |
 | 上海 | 12 |
 | 杭州 | 7 |
 | Shanghai | 5 |
@@ -294,4 +293,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-10-21 14:34。仅供求职参考。*
+*数据自动采集，更新于 2026-10-22 05:57。仅供求职参考。*
