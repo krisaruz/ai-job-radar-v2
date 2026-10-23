@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-22 14:33 | 岗位总数: **127**
+> 更新时间: 2026-10-23 05:54 | 岗位总数: **127**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,9 +12,9 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 27 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 28 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 40 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 39 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 32 |
 
 ## 各公司岗位
@@ -112,13 +112,14 @@ _Agent评测 9 / 测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产�
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
 | [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
-### [携程](jobs/携程.md)（5 个岗位）
+### [携程](jobs/携程.md)（6 个岗位）
 
-_测试开发(AI方向) 3 / 大模型/AI测试 1 / AI/Agent产品 1_
+_测试开发(AI方向) 3 / 大模型/AI测试 2 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [Senior QA EN SHACC ALL(MJ034817)](https://job.ctrip.com/#/experienced/job-detail/MJ034817) | 大模型/AI测试 | Shanghai | International Business |
+| [Senior QA Lead(MJ037546)](https://job.ctrip.com/#/experienced/job-detail/MJ037546) | 大模型/AI测试 | Shanghai | International Business |
 | [测试开发工程师(MJ035949)](https://job.ctrip.com/#/experienced/job-detail/MJ035949) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级测试开发工程师(MJ036847)](https://job.ctrip.com/#/experienced/job-detail/MJ036847) | 测试开发(AI方向) | Shanghai | International Business |
@@ -137,9 +138,9 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（9 个岗位）
+### [滴滴](jobs/滴滴.md)（8 个岗位）
 
-_测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 2 / Agent评测 1_
+_测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -149,7 +150,6 @@ _测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 2 / Agent评�
 | [资深测试开发工程师(Agent测评工程师)](https://talent.didiglobal.com/social/p/65636) | 测试开发(AI方向) | 成都 | 企业级事业部 |
 | [资深测试开发工程师-巴西支付](https://talent.didiglobal.com/social/p/66203) | 测试开发(AI方向) | 杭州 | Fintech Technology |
 | [高级测试开发工程师](https://talent.didiglobal.com/social/p/65812) | 测试开发(AI方向) | 杭州 | ABC平台 |
-| [Agent资深评测工程师](https://talent.didiglobal.com/social/p/65511) | Agent评测 | 北京 | AI Dev |
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
@@ -285,14 +285,14 @@ _Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 55 |
+| 北京 | 54 |
 | 深圳 | 16 |
 | 上海 | 12 |
 | 杭州 | 7 |
-| Shanghai | 5 |
+| Shanghai | 6 |
 | 广州 | 3 |
 | 成都 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-10-22 14:33。仅供求职参考。*
+*数据自动采集，更新于 2026-10-23 05:54。仅供求职参考。*
