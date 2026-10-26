@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-25 13:48 | 岗位总数: **128**
+> 更新时间: 2026-10-26 05:58 | 岗位总数: **129**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 38 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 31 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 32 |
 
 ## 各公司岗位
 
@@ -141,9 +141,9 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（7 个岗位）
+### [滴滴](jobs/滴滴.md)（8 个岗位）
 
-_测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 1_
+_测试开发(AI方向) 4 / AI/Agent产品 2 / 大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -154,6 +154,7 @@ _测试开发(AI方向) 4 / 大模型/AI测试 2 / AI/Agent产品 1_
 | [资深测试开发工程师-巴西支付](https://talent.didiglobal.com/social/p/66203) | 测试开发(AI方向) | 杭州 | Fintech Technology |
 | [高级测试开发工程师](https://talent.didiglobal.com/social/p/65812) | 测试开发(AI方向) | 杭州 | ABC平台 |
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
+| [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
 ### [百度](jobs/百度.md)（22 个岗位）
 
@@ -286,7 +287,7 @@ _Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 54 |
+| 北京 | 55 |
 | 深圳 | 15 |
 | 上海 | 12 |
 | 杭州 | 7 |
@@ -297,4 +298,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-10-25 13:48。仅供求职参考。*
+*数据自动采集，更新于 2026-10-26 05:58。仅供求职参考。*
