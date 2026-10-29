@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-29 06:59 | 岗位总数: **135**
+> 更新时间: 2026-10-29 16:04 | 岗位总数: **134**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,7 +13,7 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 31 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 31 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
 
@@ -150,9 +150,9 @@ _测试开发(AI方向) 5 / AI/Agent产品 2 / 大模型/AI测试 2_
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
-### [百度](jobs/百度.md)（23 个岗位）
+### [百度](jobs/百度.md)（22 个岗位）
 
-_AI/Agent产品 10 / 测试开发(AI方向) 6 / Agent评测 6 / 大模型/AI测试 1_
+_AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -160,7 +160,6 @@ _AI/Agent产品 10 / 测试开发(AI方向) 6 / Agent评测 6 / 大模型/AI测�
 | [AI 测试开发工程师（AIQA）（J106811）](https://talent.baidu.com/jobs/detail/SOCIAL/22c25f19-b1e6-4f3c-b41c-a9d29962320d) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
-| [上海-AI测试开发工程师(J101057)](https://talent.baidu.com/jobs/detail/SOCIAL/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6) | 测试开发(AI方向) | 上海 |  |
 | [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
 | [高级测试开发工程师（J105502）](https://talent.baidu.com/jobs/detail/SOCIAL/268c9877-4c95-4e0c-8c75-1473cbc6a585) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI评测产品经理（库库办公方向）（J106699）](https://talent.baidu.com/jobs/detail/SOCIAL/2a4f38b9-7cbe-43c4-ac0b-57f956d43cfd) | Agent评测 | 北京 | 产品 |
@@ -295,7 +294,7 @@ _Agent评测 1_
 | --- | --- |
 | 北京 | 56 |
 | 深圳 | 16 |
-| 上海 | 16 |
+| 上海 | 15 |
 | 杭州 | 6 |
 | Shanghai | 6 |
 | 广州 | 4 |
@@ -304,4 +303,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-10-29 06:59。仅供求职参考。*
+*数据自动采集，更新于 2026-10-29 16:04。仅供求职参考。*
