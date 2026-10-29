@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-10-28 15:56 | 岗位总数: **135**
+> 更新时间: 2026-10-29 06:59 | 岗位总数: **135**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,9 +12,9 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 32 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 31 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 31 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
 
 ## 各公司岗位
@@ -53,14 +53,6 @@ _Agent评测 2 / AI/Agent产品 1_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
-
-### [字节跳动](jobs/字节跳动.md)（1 个岗位）
-
-_测试开发(AI方向) 1_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [AI测试开发工程师 - TikTok内容安全平台](https://jobs.bytedance.com/experienced/position/7677482092129683765/detail) | 测试开发(AI方向) |  | 研发 - 测试 |
 
 ### [小米](jobs/小米.md)（3 个岗位）
 
@@ -158,9 +150,9 @@ _测试开发(AI方向) 5 / AI/Agent产品 2 / 大模型/AI测试 2_
 | [AI Agent 产品经理](https://talent.didiglobal.com/social/p/63915) | AI/Agent产品 | 北京 | 效能平台部 |
 | [开发agent产品经理](https://talent.didiglobal.com/social/p/64811) | AI/Agent产品 | 北京 | 数据平台事业部 |
 
-### [百度](jobs/百度.md)（22 个岗位）
+### [百度](jobs/百度.md)（23 个岗位）
 
-_AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测试 1_
+_AI/Agent产品 10 / 测试开发(AI方向) 6 / Agent评测 6 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -168,6 +160,7 @@ _AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测�
 | [AI 测试开发工程师（AIQA）（J106811）](https://talent.baidu.com/jobs/detail/SOCIAL/22c25f19-b1e6-4f3c-b41c-a9d29962320d) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI产品测试开发工程师（J104700）](https://talent.baidu.com/jobs/detail/SOCIAL/6b079175-05f3-4bea-9720-3da2f9856240) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI计算测试开发工程师（J98291）](https://talent.baidu.com/jobs/detail/SOCIAL/efd85bcd-ab31-4d2b-bd4e-10130016204b) | 测试开发(AI方向) | 北京 | 技术 |
+| [上海-AI测试开发工程师(J101057)](https://talent.baidu.com/jobs/detail/SOCIAL/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6) | 测试开发(AI方向) | 上海 |  |
 | [自动驾驶感知测试开发工程师（J84346）](https://talent.baidu.com/jobs/detail/SOCIAL/5786a73b-0a7d-47e5-be25-9e90d20e5ccf) | 测试开发(AI方向) | 北京 | 技术 |
 | [高级测试开发工程师（J105502）](https://talent.baidu.com/jobs/detail/SOCIAL/268c9877-4c95-4e0c-8c75-1473cbc6a585) | 测试开发(AI方向) | 北京 | 技术 |
 | [AI评测产品经理（库库办公方向）（J106699）](https://talent.baidu.com/jobs/detail/SOCIAL/2a4f38b9-7cbe-43c4-ac0b-57f956d43cfd) | Agent评测 | 北京 | 产品 |
@@ -228,12 +221,11 @@ _大模型/AI测试 1_
 
 ### [腾讯](jobs/腾讯.md)（18 个岗位）
 
-_AI/Agent产品 7 / Agent评测 5 / 测试开发(AI方向) 4 / 大模型/AI测试 2_
+_AI/Agent产品 7 / Agent评测 6 / 测试开发(AI方向) 4 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [大模型测试工程师（北京/深圳）](http://careers.tencent.com/jobdesc.html?postId=2079125521983254528) | 大模型/AI测试 | 北京 | TEG |
-| [腾讯云-AI平台测试工程师](http://careers.tencent.com/jobdesc.html?postId=2095048211722059776) | 大模型/AI测试 | 深圳 | CSIG |
 | [AI Agent测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2088194556695855104) | 测试开发(AI方向) | 深圳 | TEG |
 | [企业微信-测试开发工程师-AI测试提效方向](http://careers.tencent.com/jobdesc.html?postId=2098283820326502400) | 测试开发(AI方向) | 广州 | WXG |
 | [大模型存储测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100835560338927616) | 测试开发(AI方向) | 北京 | TEG |
@@ -243,6 +235,7 @@ _AI/Agent产品 7 / Agent评测 5 / 测试开发(AI方向) 4 / 大模型/AI测�
 | [微信基础-大模型评测产品经理](http://careers.tencent.com/jobdesc.html?postId=2109847133833310208) | Agent评测 | 广州 | WXG |
 | [微信小程序-大模型评测工程师-智能体方向](http://careers.tencent.com/jobdesc.html?postId=2089604837229641728) | Agent评测 | 广州 | WXG |
 | [混元多模态大模型评测（北京）](http://careers.tencent.com/jobdesc.html?postId=1997884330793394176) | Agent评测 | 深圳 | TEG |
+| [腾讯云-AI Infra评测高级工程师](http://careers.tencent.com/jobdesc.html?postId=2095048211722059776) | Agent评测 | 深圳 | CSIG |
 | [AI产品经理-AI平台（Agent）方向](http://careers.tencent.com/jobdesc.html?postId=2088450750270324736) | AI/Agent产品 | 深圳 | CDG |
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
 | [服务Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2113112723431796736) | AI/Agent产品 | 深圳 | CSIG |
@@ -302,7 +295,7 @@ _Agent评测 1_
 | --- | --- |
 | 北京 | 56 |
 | 深圳 | 16 |
-| 上海 | 15 |
+| 上海 | 16 |
 | 杭州 | 6 |
 | Shanghai | 6 |
 | 广州 | 4 |
@@ -311,4 +304,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-10-28 15:56。仅供求职参考。*
+*数据自动采集，更新于 2026-10-29 06:59。仅供求职参考。*
