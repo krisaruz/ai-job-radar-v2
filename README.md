@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-03 07:45 | 岗位总数: **134**
+> 更新时间: 2026-11-03 17:03 | 岗位总数: **133**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,7 +13,7 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 32 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 29 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 37 |
 
@@ -92,14 +92,13 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
-### [快手](jobs/快手.md)（16 个岗位）
+### [快手](jobs/快手.md)（15 个岗位）
 
-_Agent评测 9 / 测试开发(AI方向) 3 / AI/Agent产品 3 / 大模型/AI测试 1_
+_Agent评测 9 / AI/Agent产品 3 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [B端高级测试工程师（可灵AI）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/26961) | 大模型/AI测试 |  |  |
-| [AI测试开发工程师（增长方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32357) | 测试开发(AI方向) |  |  |
 | [商业化AI测试开发-【KSIB】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/28814) | 测试开发(AI方向) |  |  |
 | [测试开发工程师-【广告引擎算法】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/20646) | 测试开发(AI方向) |  |  |
 | [AI 评测平台产品经理（可灵AI专项）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31740) | Agent评测 |  |  |
@@ -311,4 +310,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-03 07:45。仅供求职参考。*
+*数据自动采集，更新于 2026-11-03 17:03。仅供求职参考。*
