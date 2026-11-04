@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-03 17:03 | 岗位总数: **133**
+> 更新时间: 2026-11-04 07:26 | 岗位总数: **130**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 32 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 31 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 37 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 35 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
 
 ## 各公司岗位
 
@@ -92,9 +92,9 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
-### [快手](jobs/快手.md)（15 个岗位）
+### [快手](jobs/快手.md)（13 个岗位）
 
-_Agent评测 9 / AI/Agent产品 3 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
+_Agent评测 8 / 测试开发(AI方向) 2 / AI/Agent产品 2 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -106,11 +106,9 @@ _Agent评测 9 / AI/Agent产品 3 / 测试开发(AI方向) 2 / 大模型/AI测�
 | [多模态大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31300) | Agent评测 |  |  |
 | [大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29782) | Agent评测 |  |  |
 | [大模型评测算法工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30460) | Agent评测 |  |  |
-| [文生图/可控式编辑大模型评测工程师（可灵AI专项）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/27559) | Agent评测 |  |  |
 | [训练数据质量评测专家 -【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32325) | Agent评测 |  |  |
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
-| [AIGC产品专家（直播方向）-【生活服务】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/20795) | AI/Agent产品 |  |  |
 | [AIGC产品经理（短视频方向）-【生活服务】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/23556) | AI/Agent产品 |  |  |
 | [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
@@ -214,14 +212,13 @@ _大模型/AI测试 3 / 测试开发(AI方向) 1_
 | [高级/资深测试工程师](https://hr.163.com/job-detail.html?id=76383) | 大模型/AI测试 | 杭州 | 支付事业部 |
 | [算法测试开发工程师（AI 原生游戏）](https://hr.163.com/job-detail.html?id=75689) | 测试开发(AI方向) | 杭州 | 雷火事业群 |
 
-### [网易游戏](jobs/网易游戏.md)（2 个岗位）
+### [网易游戏](jobs/网易游戏.md)（1 个岗位）
 
-_大模型/AI测试 2_
+_大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [专项测试工程师（性能）](https://hr.163.com/job-detail.html?id=79560) | 大模型/AI测试 | 上海 | 质量保障中心 |
-| [资深服务端测试工程师（七日世界）](https://hr.163.com/job-detail.html?id=78046) | 大模型/AI测试 | 上海 | 质量保障中心 |
+| [高级/资深测试工程师](https://hr.163.com/job-detail.html?id=76383) | 大模型/AI测试 | 杭州 | 支付事业部 |
 
 ### [腾讯](jobs/腾讯.md)（19 个岗位）
 
@@ -300,8 +297,8 @@ _Agent评测 1_
 | --- | --- |
 | 北京 | 55 |
 | 深圳 | 16 |
-| 上海 | 15 |
-| 杭州 | 6 |
+| 上海 | 13 |
+| 杭州 | 7 |
 | Shanghai | 5 |
 | 广州 | 4 |
 | 成都 | 1 |
@@ -310,4 +307,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-03 17:03。仅供求职参考。*
+*数据自动采集，更新于 2026-11-04 07:26。仅供求职参考。*
