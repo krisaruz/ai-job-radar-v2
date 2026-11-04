@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-04 07:26 | 岗位总数: **130**
+> 更新时间: 2026-11-04 17:02 | 岗位总数: **129**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 31 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 35 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
 
 ## 各公司岗位
 
@@ -92,9 +92,9 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
-### [快手](jobs/快手.md)（13 个岗位）
+### [快手](jobs/快手.md)（12 个岗位）
 
-_Agent评测 8 / 测试开发(AI方向) 2 / AI/Agent产品 2 / 大模型/AI测试 1_
+_Agent评测 8 / 测试开发(AI方向) 2 / 大模型/AI测试 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -109,7 +109,6 @@ _Agent评测 8 / 测试开发(AI方向) 2 / AI/Agent产品 2 / 大模型/AI测�
 | [训练数据质量评测专家 -【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32325) | Agent评测 |  |  |
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
-| [AIGC产品经理（短视频方向）-【生活服务】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/23556) | AI/Agent产品 |  |  |
 | [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
 ### [携程](jobs/携程.md)（5 个岗位）
@@ -307,4 +306,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-04 07:26。仅供求职参考。*
+*数据自动采集，更新于 2026-11-04 17:02。仅供求职参考。*
