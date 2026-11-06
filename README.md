@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-06 07:52 | 岗位总数: **132**
+> 更新时间: 2026-11-06 16:45 | 岗位总数: **135**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -13,8 +13,8 @@
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 34 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 28 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 35 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
 
 ## 各公司岗位
@@ -75,13 +75,14 @@ _大模型/AI测试 3 / 测试开发(AI方向) 2 / AI/Agent产品 1_
 | [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522384257327939693/detail) | 测试开发(AI方向) | 西安 | 手机部 |
 | [AI Agent高级产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7582802602174417195/detail) | AI/Agent产品 | 西安 | 手机部 |
 
-### [小红书](jobs/小红书.md)（6 个岗位）
+### [小红书](jobs/小红书.md)（7 个岗位）
 
-_Agent评测 6_
+_Agent评测 7_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI 评测平台 Leader](https://job.xiaohongshu.com/social/position/21976) | Agent评测 | 上海 | 后端开发 |
+| [AI 评测技术专家](https://job.xiaohongshu.com/social/position/22973) | Agent评测 | 上海 | 后端开发 |
 | [AI办公产品-评测方向](https://job.xiaohongshu.com/social/position/22747) | Agent评测 | 上海 | 产品经理 |
 | [Agent 评估与进化工程师 - Agent Evaluation & Evolution Engineer](https://job.xiaohongshu.com/social/position/21896) | Agent评测 | 北京 | 机器学习平台 |
 | [Dots-大模型能力评测师](https://job.xiaohongshu.com/social/position/22455) | Agent评测 | 北京 | 大模型 |
@@ -173,8 +174,8 @@ _AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测�
 | [大模型评测算法工程师（J100902）](https://talent.baidu.com/jobs/detail/SOCIAL/24c9e591-75c8-42bd-b531-522b53fc47ac) | Agent评测 | 北京 | 技术 |
 | [AI Agent产品经理（J105400）](https://talent.baidu.com/jobs/detail/SOCIAL/34a6f0bf-8068-4e39-9337-e3d4cc6d708f) | AI/Agent产品 | 北京 | 产品 |
 | [AI Agent产品经理（J106491）](https://talent.baidu.com/jobs/detail/SOCIAL/ac9ef733-b95f-4f47-a68c-e754e61934c0) | AI/Agent产品 | 北京 | 产品 |
-| [AI 产品经理（私域Agent 方向）（J98474）](https://talent.baidu.com/jobs/detail/SOCIAL/037e198c-d1db-4607-9a68-041d04e309c4) | AI/Agent产品 | 北京 | 产品 |
 | [Agent产品经理（电商方向）（J99416）](https://talent.baidu.com/jobs/detail/SOCIAL/bfc48fb5-5eee-46b7-a03f-5e8529b49277) | AI/Agent产品 | 北京 | 产品 |
+| [Agent增长产品经理（J107145）](https://talent.baidu.com/jobs/detail/SOCIAL/63fa44f8-d1ec-4e4c-b49b-d1744eb7e4a9) | AI/Agent产品 | 北京 | 产品 |
 | [agent产品（J101151）](https://talent.baidu.com/jobs/detail/SOCIAL/dd312460-ab60-4dde-ad83-2d89e206c6de) | AI/Agent产品 | 北京 | 产品 |
 | [伐谋-Agent产品经理（J99563）](https://talent.baidu.com/jobs/detail/SOCIAL/d527f26d-4990-4db5-b1de-d8dc4243824b) | AI/Agent产品 | 北京 | 产品 |
 | [医生Agent产品专家（J100602）](https://talent.baidu.com/jobs/detail/SOCIAL/1f7d8a88-1c3a-473c-bf50-66f6a11244d4) | AI/Agent产品 | 北京 | 产品 |
@@ -260,14 +261,16 @@ _测试开发(AI方向) 1 / AI/Agent产品 1 / 大模型/AI测试 1_
 | [平台测试开发工程师](https://lilithgames.jobs.feishu.cn/career/position/7688674315667261715/detail) | 测试开发(AI方向) | 上海 | 测试 |
 | [产品经理（活动中台与 AI Agent 工作流）](https://lilithgames.jobs.feishu.cn/career/position/7667872138321266990/detail) | AI/Agent产品 | 上海 | 互联网 / 电子 / 网游 |
 
-### [阿里巴巴](jobs/阿里巴巴.md)（8 个岗位）
+### [阿里巴巴](jobs/阿里巴巴.md)（10 个岗位）
 
-_AI/Agent产品 4 / Agent评测 2 / 大模型/AI测试 2_
+_AI/Agent产品 4 / Agent评测 2 / 大模型/AI测试 2 / 测试开发(AI方向) 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [千问事业部-AI应用&Agent测试专家-杭州/上海/深圳](https://talent.quark.cn/off-campus/position-detail?positionId=100010700004) | 大模型/AI测试 | 深圳 |  |
 | [千问事业部-测试Agent&平台开发专家-杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100013260019) | 大模型/AI测试 | 杭州 |  |
+| [智元科技-测试开发工程师-广州](https://talent.quark.cn/off-campus/position-detail?positionId=100052580004) | 测试开发(AI方向) | 广州 |  |
+| [智元科技-测试开发工程师-智能助手](https://talent.quark.cn/off-campus/position-detail?positionId=100018600002) | 测试开发(AI方向) | 杭州 |  |
 | [千问事业部-AI agent评测平台产品经理-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100033200001) | Agent评测 | 北京 |  |
 | [千问事业部-内容安全自动化评测专家-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100018640025) | Agent评测 | 北京 |  |
 | [千问事业部-AI agent产品经理-消费决策方向](https://talent.quark.cn/off-campus/position-detail?positionId=100041880001) | AI/Agent产品 | 北京 |  |
@@ -299,13 +302,13 @@ _Agent评测 1_
 | --- | --- |
 | 北京 | 55 |
 | 深圳 | 19 |
-| 上海 | 14 |
-| 杭州 | 6 |
+| 上海 | 15 |
+| 杭州 | 7 |
 | Shanghai | 5 |
-| 广州 | 3 |
+| 广州 | 4 |
 | 西安 | 2 |
 | 南京 | 1 |
 
 ---
 
-*数据自动采集，更新于 2026-11-06 07:52。仅供求职参考。*
+*数据自动采集，更新于 2026-11-06 16:45。仅供求职参考。*
