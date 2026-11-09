@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-08 16:02 | 岗位总数: **135**
+> 更新时间: 2026-11-09 07:44 | 岗位总数: **131**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,20 +12,19 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 34 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 33 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 32 |
 
 ## 各公司岗位
 
-### [MiniMax](jobs/MiniMax.md)（9 个岗位）
+### [MiniMax](jobs/MiniMax.md)（8 个岗位）
 
-_测试开发(AI方向) 3 / AI/Agent产品 3 / Agent评测 2 / 大模型/AI测试 1_
+_测试开发(AI方向) 3 / AI/Agent产品 3 / Agent评测 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [测试工程师（Agent方向）](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7694877451201841449/detail) | 大模型/AI测试 | 上海 | 互联网 / 电子 / 网游 |
 | [Agent测试开发工程师-开放平台](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7495670973120645388/detail) | 测试开发(AI方向) | 北京 | 测试 |
 | [Agent测试开发工程师-支付](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651601796775069971/detail) | 测试开发(AI方向) | 北京 | 测试 |
 | [Senior测试开发工程师-大模型方向](https://vrfi1sk8a0.jobs.feishu.cn/index/position/7651581813773961526/detail) | 测试开发(AI方向) | 北京 | 研发 |
@@ -52,15 +51,6 @@ _Agent评测 2 / AI/Agent产品 1_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
-
-### [字节跳动](jobs/字节跳动.md)（2 个岗位）
-
-_AI/Agent产品 2_
-
-| 岗位 | 方向 | 城市 | 部门 |
-| --- | --- | --- | --- |
-| [Agent产品方案工程师（FDE） - 飞书商业化](https://jobs.bytedance.com/experienced/position/7644825514368993589/detail) | AI/Agent产品 |  | 研发 |
-| [抖音Agent产品（策略方向/抖音搜索） - 抖音](https://jobs.bytedance.com/experienced/position/7612645655768533253/detail) | AI/Agent产品 |  | 产品 - 数据分析 |
 
 ### [小米](jobs/小米.md)（6 个岗位）
 
@@ -97,9 +87,9 @@ _测试开发(AI方向) 1_
 | --- | --- | --- | --- |
 | [AI测试开发](https://poizon.jobs.feishu.cn/index/position/7652265793619462451/detail) | 测试开发(AI方向) | 上海 | 研发 |
 
-### [快手](jobs/快手.md)（12 个岗位）
+### [快手](jobs/快手.md)（11 个岗位）
 
-_Agent评测 8 / 测试开发(AI方向) 2 / 大模型/AI测试 1 / AI/Agent产品 1_
+_Agent评测 8 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -114,7 +104,6 @@ _Agent评测 8 / 测试开发(AI方向) 2 / 大模型/AI测试 1 / AI/Agent产�
 | [训练数据质量评测专家 -【可灵AI】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32325) | Agent评测 |  |  |
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
-| [大模型产品经理 （AI Coding / Agentic 方向）](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30282) | AI/Agent产品 |  |  |
 
 ### [携程](jobs/携程.md)（5 个岗位）
 
@@ -302,7 +291,7 @@ _Agent评测 1_
 | --- | --- |
 | 北京 | 55 |
 | 深圳 | 19 |
-| 上海 | 15 |
+| 上海 | 14 |
 | 杭州 | 7 |
 | Shanghai | 5 |
 | 广州 | 4 |
@@ -311,4 +300,4 @@ _Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-08 16:02。仅供求职参考。*
+*数据自动采集，更新于 2026-11-09 07:44。仅供求职参考。*
