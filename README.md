@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-09 07:44 | 岗位总数: **131**
+> 更新时间: 2026-11-09 19:38 | 岗位总数: **130**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 33 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 30 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 32 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 35 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 27 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 31 |
 
 ## 各公司岗位
 
@@ -54,16 +54,16 @@ _Agent评测 2 / AI/Agent产品 1_
 
 ### [小米](jobs/小米.md)（6 个岗位）
 
-_大模型/AI测试 3 / 测试开发(AI方向) 2 / AI/Agent产品 1_
+_大模型/AI测试 5 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI测试专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7477484759926014061/detail) | 大模型/AI测试 | 北京 | 手机部 |
-| [资深语音测试专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7649982423274670342/detail) | 大模型/AI测试 | 北京 | 集团技术委员会 |
-| [（活水）操作系统测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7649587091789318450/detail) | 大模型/AI测试 | 南京 | 手机部 |
-| [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522386109171892333/detail) | 测试开发(AI方向) | 北京 | 手机部 |
-| [AI测试开发工程师&TSE](https://xiaomi.jobs.f.mioffice.cn/index/position/7522384257327939693/detail) | 测试开发(AI方向) | 西安 | 手机部 |
-| [AI Agent高级产品经理](https://xiaomi.jobs.f.mioffice.cn/index/position/7582802602174417195/detail) | AI/Agent产品 | 西安 | 手机部 |
+| [可穿戴测试工程师-运动健康算法](https://xiaomi.jobs.f.mioffice.cn/index/position/7695740916745226538/detail) | 大模型/AI测试 | 南京 | 手机部 |
+| [小米汽车-智能制造-灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 大模型/AI测试 | 北京 | 汽车部 |
+| [智能座舱-视觉AVM算法调试(测试)工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7669982965136853290/detail) | 大模型/AI测试 | 北京 | 汽车部 |
+| [智能座舱OTA测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7687445609746352410/detail) | 大模型/AI测试 | 南京 | 汽车部 |
+| [智能座舱视觉测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7695988970920773931/detail) | 大模型/AI测试 | 南京 | 汽车部 |
+| [仿真评测开发工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7673038256796649747/detail) | Agent评测 | 北京 | 汽车部 |
 
 ### [小红书](jobs/小红书.md)（7 个岗位）
 
@@ -211,9 +211,9 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [高级/资深测试工程师](https://hr.163.com/job-detail.html?id=76383) | 大模型/AI测试 | 杭州 | 支付事业部 |
 
-### [腾讯](jobs/腾讯.md)（22 个岗位）
+### [腾讯](jobs/腾讯.md)（21 个岗位）
 
-_AI/Agent产品 8 / Agent评测 5 / 测试开发(AI方向) 5 / 大模型/AI测试 4_
+_AI/Agent产品 8 / Agent评测 5 / 大模型/AI测试 4 / 测试开发(AI方向) 4_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -221,7 +221,6 @@ _AI/Agent产品 8 / Agent评测 5 / 测试开发(AI方向) 5 / 大模型/AI测�
 | [腾讯云-测试效能高级工程师（AI测试智能化方向）](http://careers.tencent.com/jobdesc.html?postId=2099394519744294912) | 大模型/AI测试 | 深圳 | CSIG |
 | [腾讯云-边缘安全加速测试工程师（测试agent开发方向）](http://careers.tencent.com/jobdesc.html?postId=2100399124452130816) | 大模型/AI测试 | 深圳 | CSIG |
 | [腾讯云-音视频测试工程师（测试agent开发方向）](http://careers.tencent.com/jobdesc.html?postId=2100396691214745600) | 大模型/AI测试 | 深圳 | CSIG |
-| [AI Agent测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2088194556695855104) | 测试开发(AI方向) | 深圳 | TEG |
 | [企业微信-测试开发工程师-AI测试提效方向](http://careers.tencent.com/jobdesc.html?postId=2098283820326502400) | 测试开发(AI方向) | 广州 | WXG |
 | [大模型存储测试开发工程师](http://careers.tencent.com/jobdesc.html?postId=2100835560338927616) | 测试开发(AI方向) | 北京 | TEG |
 | [大模型存储测试开发工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=2100502397540548608) | 测试开发(AI方向) | 深圳 | TEG |
@@ -290,14 +289,13 @@ _Agent评测 1_
 | 城市 | 岗位数 |
 | --- | --- |
 | 北京 | 55 |
-| 深圳 | 19 |
+| 深圳 | 18 |
 | 上海 | 14 |
 | 杭州 | 7 |
 | Shanghai | 5 |
 | 广州 | 4 |
-| 西安 | 2 |
-| 南京 | 1 |
+| 南京 | 3 |
 
 ---
 
-*数据自动采集，更新于 2026-11-09 07:44。仅供求职参考。*
+*数据自动采集，更新于 2026-11-09 19:38。仅供求职参考。*
