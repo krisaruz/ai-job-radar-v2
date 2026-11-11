@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-10 17:02 | 岗位总数: **132**
+> 更新时间: 2026-11-11 07:42 | 岗位总数: **132**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -51,6 +51,14 @@ _Agent评测 2 / AI/Agent产品 1_
 | [AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7654939204527589658/detail) | Agent评测 | 北京 | 设计 |
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
+
+### [字节跳动](jobs/字节跳动.md)（1 个岗位）
+
+_AI/Agent产品 1_
+
+| 岗位 | 方向 | 城市 | 部门 |
+| --- | --- | --- | --- |
+| [AIGC产品设计（Agent方向）-豆包](https://jobs.bytedance.com/experienced/position/7630842626955266357/detail) | AI/Agent产品 |  | 设计 |
 
 ### [小米](jobs/小米.md)（6 个岗位）
 
@@ -105,9 +113,9 @@ _Agent评测 8 / 测试开发(AI方向) 2 / 大模型/AI测试 1_
 | [音视频大模型评测工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/32797) | Agent评测 |  |  |
 | [音频大模型评测工程师-【可灵AI专项】](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29965) | Agent评测 |  |  |
 
-### [携程](jobs/携程.md)（5 个岗位）
+### [携程](jobs/携程.md)（4 个岗位）
 
-_大模型/AI测试 2 / 测试开发(AI方向) 2 / AI/Agent产品 1_
+_大模型/AI测试 2 / 测试开发(AI方向) 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -115,7 +123,6 @@ _大模型/AI测试 2 / 测试开发(AI方向) 2 / AI/Agent产品 1_
 | [Senior QA Lead(MJ037546)](https://job.ctrip.com/#/experienced/job-detail/MJ037546) | 大模型/AI测试 | Shanghai | International Business |
 | [测试开发工程师(MJ035949)](https://job.ctrip.com/#/experienced/job-detail/MJ035949) | 测试开发(AI方向) | Shanghai | Accommodation |
 | [高级/资深测试开发工程师(MJ023131)](https://job.ctrip.com/#/experienced/job-detail/MJ023131) | 测试开发(AI方向) | Shanghai | Accommodation |
-| [AI产品经理（对话类Agent）(MJ034429)](https://job.ctrip.com/#/experienced/job-detail/MJ034429) | AI/Agent产品 | Shanghai | Content |
 
 ### [智谱](jobs/智谱.md)（6 个岗位）
 
@@ -294,10 +301,10 @@ _AI/Agent产品 1 / Agent评测 1_
 | 深圳 | 18 |
 | 上海 | 16 |
 | 杭州 | 6 |
-| Shanghai | 5 |
 | 广州 | 4 |
+| Shanghai | 4 |
 | 南京 | 3 |
 
 ---
 
-*数据自动采集，更新于 2026-11-10 17:02。仅供求职参考。*
+*数据自动采集，更新于 2026-11-11 07:42。仅供求职参考。*
