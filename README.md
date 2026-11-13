@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-12 17:34 | 岗位总数: **124**
+> 更新时间: 2026-11-13 07:51 | 岗位总数: **126**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,9 +12,9 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 30 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 31 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 24 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 34 |
 
 ## 各公司岗位
@@ -60,13 +60,14 @@ _AI/Agent产品 1_
 | --- | --- | --- | --- |
 | [AIGC产品设计（Agent方向）-豆包](https://jobs.bytedance.com/experienced/position/7630842626955266357/detail) | AI/Agent产品 |  | 设计 |
 
-### [小米](jobs/小米.md)（1 个岗位）
+### [小米](jobs/小米.md)（2 个岗位）
 
-_大模型/AI测试 1_
+_大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
+| [小米汽车-智能制造-灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 大模型/AI测试 | 北京 | 汽车部 |
 
 ### [小红书](jobs/小红书.md)（7 个岗位）
 
@@ -132,14 +133,15 @@ _AI/Agent产品 2 / Agent评测 2 / 大模型/AI测试 1 / 测试开发(AI方向
 | [Agent产品经理](https://zhipu-ai.jobs.feishu.cn/index/position/7543148963412904246/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 | [高级产品经理(ToB Agent方向)-北京](https://zhipu-ai.jobs.feishu.cn/index/position/7574686492305770758/detail) | AI/Agent产品 | 北京 | 互联网 / 电子 / 网游 |
 
-### [滴滴](jobs/滴滴.md)（2 个岗位）
+### [滴滴](jobs/滴滴.md)（3 个岗位）
 
-_测试开发(AI方向) 2_
+_测试开发(AI方向) 2 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [资深服务端测试开发工程师-质量AI](https://talent.didiglobal.com/social/p/66003) | 测试开发(AI方向) | 北京 | Artificial Intelligence |
 | [高级测试开发工程师](https://talent.didiglobal.com/social/p/65812) | 测试开发(AI方向) | 杭州 | ABC平台 |
+| [Agent资深评测工程师](https://talent.didiglobal.com/social/p/65511) | Agent评测 | 北京 | AI Dev |
 
 ### [百度](jobs/百度.md)（22 个岗位）
 
@@ -289,7 +291,7 @@ _AI/Agent产品 1 / Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 55 |
+| 北京 | 57 |
 | 深圳 | 17 |
 | 上海 | 15 |
 | 广州 | 4 |
@@ -298,4 +300,4 @@ _AI/Agent产品 1 / Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-12 17:34。仅供求职参考。*
+*数据自动采集，更新于 2026-11-13 07:51。仅供求职参考。*
