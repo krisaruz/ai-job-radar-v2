@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-15 07:43 | 岗位总数: **124**
+> 更新时间: 2026-11-15 16:19 | 岗位总数: **122**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,9 +12,9 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 30 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 24 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 36 |
 | AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 33 |
 
 ## 各公司岗位
@@ -52,13 +52,14 @@ _Agent评测 2 / AI/Agent产品 1_
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [小米](jobs/小米.md)（1 个岗位）
+### [小米](jobs/小米.md)（2 个岗位）
 
-_大模型/AI测试 1_
+_大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
+| [小米汽车-智能制造-灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 大模型/AI测试 | 北京 | 汽车部 |
 
 ### [小红书](jobs/小红书.md)（7 个岗位）
 
@@ -163,16 +164,14 @@ _AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测�
 | [商家Ai agent产品经理（J99223）](https://talent.baidu.com/jobs/detail/SOCIAL/67a90a79-47ef-4c18-9191-90bd608f4048) | AI/Agent产品 | 北京 | 产品 |
 | [视频Agent产品经理（J106905）](https://talent.baidu.com/jobs/detail/SOCIAL/ea51dedb-3b9e-4c85-95ed-a6b00fccfe0f) | AI/Agent产品 | 北京 | 产品 |
 
-### [科大讯飞](jobs/科大讯飞.md)（13 个岗位）
+### [科大讯飞](jobs/科大讯飞.md)（10 个岗位）
 
-_大模型/AI测试 11 / 测试开发(AI方向) 1 / Agent评测 1_
+_大模型/AI测试 9 / 测试开发(AI方向) 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI研究院-AI算法测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e587ad7b-5d66-4519-97af-eab6cd593fec) | 大模型/AI测试 |  |  |
 | [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=950b0f1f-6be3-4520-94ea-13bfcf2f6bb0) | 大模型/AI测试 |  |  |
 | [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e40473cc-64c5-4832-b757-43f3ffbfa4a6) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=a582272d-f2e9-4357-8aba-d8dc195e22b5) | 大模型/AI测试 |  |  |
 | [中级系统测试工程师-语音及大模型](https://iflytek.zhiye.com/4/detail?jobAdId=4803ecc2-ea29-44e4-a351-ad8261f7699e) | 大模型/AI测试 |  |  |
 | [词元星火-中级测试技术工程师(J13595)](https://iflytek.zhiye.com/4/detail?jobAdId=c77e15b9-c8e1-4dac-82bd-8ed85f4aea8a) | 大模型/AI测试 |  |  |
 | [高级AI测试工程师(J12757)](https://iflytek.zhiye.com/4/detail?jobAdId=c7313bc8-a3cc-4fb5-8e5c-18f125a74ed4) | 大模型/AI测试 |  |  |
@@ -181,7 +180,6 @@ _大模型/AI测试 11 / 测试开发(AI方向) 1 / Agent评测 1_
 | [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=740f7bad-9562-44a3-b2b7-336b12fc86ed) | 大模型/AI测试 |  |  |
 | [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=b7dc8c3d-afed-47f3-9881-86b6ffa3add2) | 大模型/AI测试 |  |  |
 | [AI算法测试开发工程师（大量HC）(J13365)](https://iflytek.zhiye.com/4/detail?jobAdId=bdb63a08-7b4b-4415-9e3b-84b78e6c3e87) | 测试开发(AI方向) |  |  |
-| [AI研究院-研究算法工程师-语音评测](https://iflytek.zhiye.com/4/detail?jobAdId=d7eba20c-12c5-41c7-a4bc-7a498e213951) | Agent评测 |  |  |
 
 ### [网易](jobs/网易.md)（3 个岗位）
 
@@ -282,7 +280,7 @@ _AI/Agent产品 1 / Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 56 |
+| 北京 | 57 |
 | 深圳 | 17 |
 | 上海 | 15 |
 | 广州 | 4 |
@@ -291,4 +289,4 @@ _AI/Agent产品 1 / Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-15 07:43。仅供求职参考。*
+*数据自动采集，更新于 2026-11-15 16:19。仅供求职参考。*
