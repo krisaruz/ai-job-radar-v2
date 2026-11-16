@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-16 07:50 | 岗位总数: **124**
+> 更新时间: 2026-11-16 19:22 | 岗位总数: **118**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 29 |
-| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 24 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 23 |
+| 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 34 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 33 |
 
 ## 各公司岗位
 
@@ -164,23 +164,17 @@ _AI/Agent产品 10 / Agent评测 6 / 测试开发(AI方向) 5 / 大模型/AI测�
 | [商家Ai agent产品经理（J99223）](https://talent.baidu.com/jobs/detail/SOCIAL/67a90a79-47ef-4c18-9191-90bd608f4048) | AI/Agent产品 | 北京 | 产品 |
 | [视频Agent产品经理（J106905）](https://talent.baidu.com/jobs/detail/SOCIAL/ea51dedb-3b9e-4c85-95ed-a6b00fccfe0f) | AI/Agent产品 | 北京 | 产品 |
 
-### [科大讯飞](jobs/科大讯飞.md)（13 个岗位）
+### [科大讯飞](jobs/科大讯飞.md)（7 个岗位）
 
-_大模型/AI测试 11 / 测试开发(AI方向) 1 / Agent评测 1_
+_大模型/AI测试 5 / 测试开发(AI方向) 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI研究院-AI算法测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e587ad7b-5d66-4519-97af-eab6cd593fec) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=950b0f1f-6be3-4520-94ea-13bfcf2f6bb0) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=e40473cc-64c5-4832-b757-43f3ffbfa4a6) | 大模型/AI测试 |  |  |
 | [中级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=a582272d-f2e9-4357-8aba-d8dc195e22b5) | 大模型/AI测试 |  |  |
-| [中级系统测试工程师-语音及大模型](https://iflytek.zhiye.com/4/detail?jobAdId=4803ecc2-ea29-44e4-a351-ad8261f7699e) | 大模型/AI测试 |  |  |
 | [词元星火-中级测试技术工程师(J13595)](https://iflytek.zhiye.com/4/detail?jobAdId=c77e15b9-c8e1-4dac-82bd-8ed85f4aea8a) | 大模型/AI测试 |  |  |
 | [高级AI测试工程师(J12757)](https://iflytek.zhiye.com/4/detail?jobAdId=c7313bc8-a3cc-4fb5-8e5c-18f125a74ed4) | 大模型/AI测试 |  |  |
 | [高级AI测试工程师(J13010)](https://iflytek.zhiye.com/4/detail?jobAdId=b42f0a13-f47d-40ab-a253-1cd05beb8abf) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=f1073fbe-d8a6-403d-8daf-ecd1fee01832) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=740f7bad-9562-44a3-b2b7-336b12fc86ed) | 大模型/AI测试 |  |  |
-| [高级系统测试工程师](https://iflytek.zhiye.com/4/detail?jobAdId=b7dc8c3d-afed-47f3-9881-86b6ffa3add2) | 大模型/AI测试 |  |  |
 | [AI算法测试开发工程师（大量HC）(J13365)](https://iflytek.zhiye.com/4/detail?jobAdId=bdb63a08-7b4b-4415-9e3b-84b78e6c3e87) | 测试开发(AI方向) |  |  |
 | [AI研究院-研究算法工程师-语音评测](https://iflytek.zhiye.com/4/detail?jobAdId=d7eba20c-12c5-41c7-a4bc-7a498e213951) | Agent评测 |  |  |
 
@@ -202,9 +196,9 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [资深服务端测试工程师（七日世界）](https://hr.163.com/job-detail.html?id=78046) | 大模型/AI测试 | 上海 | 质量保障中心 |
 
-### [腾讯](jobs/腾讯.md)（21 个岗位）
+### [腾讯](jobs/腾讯.md)（20 个岗位）
 
-_AI/Agent产品 8 / Agent评测 5 / 大模型/AI测试 4 / 测试开发(AI方向) 4_
+_AI/Agent产品 7 / Agent评测 5 / 大模型/AI测试 4 / 测试开发(AI方向) 4_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -225,7 +219,6 @@ _AI/Agent产品 8 / Agent评测 5 / 大模型/AI测试 4 / 测试开发(AI方向
 | [WorkBuddy-Agent Harness 策略产品经理](http://careers.tencent.com/jobdesc.html?postId=2098252455568654336) | AI/Agent产品 | 深圳 | CSIG |
 | [增长产品经理（AI/Agent 方向）](http://careers.tencent.com/jobdesc.html?postId=2089943379306786816) | AI/Agent产品 | 深圳 | PCG |
 | [服务Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2113112723431796736) | AI/Agent产品 | 深圳 | CSIG |
-| [游戏性能AI分析平台-AI Agent产品经理](http://careers.tencent.com/jobdesc.html?postId=2091816271338455040) | AI/Agent产品 | 上海 | IEG |
 | [腾讯云-Agent Runtime高级技术产品经理(北京/深圳)](http://careers.tencent.com/jobdesc.html?postId=2115025978001637376) | AI/Agent产品 | 深圳 | CSIG |
 | [腾讯元宝-大模型策略产品-语音方向](http://careers.tencent.com/jobdesc.html?postId=2101997688525602816) | AI/Agent产品 | 北京 | CSIG |
 | [证券-AI产品经理-Agent方向](http://careers.tencent.com/jobdesc.html?postId=2110653070814916608) | AI/Agent产品 | 深圳 | CDG |
@@ -267,12 +260,13 @@ _大模型/AI测试 1_
 | --- | --- | --- | --- |
 | [AI 测试工程师](https://01ai.jobs.feishu.cn/index/position/7686751993624807722/detail) | 大模型/AI测试 | 北京 | 互联网 / 电子 / 网游 |
 
-### [面壁智能](jobs/面壁智能.md)（2 个岗位）
+### [面壁智能](jobs/面壁智能.md)（3 个岗位）
 
-_AI/Agent产品 1 / Agent评测 1_
+_测试开发(AI方向) 1 / AI/Agent产品 1 / Agent评测 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
+| [Agent 测试开发工程师](https://modelbest.jobs.feishu.cn/career/position/7708693067117496617/detail) | 测试开发(AI方向) | 北京 |  |
 | [大模型评测算法工程师](https://modelbest.jobs.feishu.cn/career/position/7583968750891551002/detail) | Agent评测 | 北京 |  |
 | [Agent 客户交付产品经理](https://modelbest.jobs.feishu.cn/career/position/7706460423302252851/detail) | AI/Agent产品 | 北京 |  |
 
@@ -282,13 +276,13 @@ _AI/Agent产品 1 / Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 57 |
+| 北京 | 58 |
 | 深圳 | 17 |
-| 上海 | 13 |
+| 上海 | 12 |
 | 广州 | 4 |
 | 杭州 | 4 |
 | Shanghai | 4 |
 
 ---
 
-*数据自动采集，更新于 2026-11-16 07:50。仅供求职参考。*
+*数据自动采集，更新于 2026-11-16 19:22。仅供求职参考。*
