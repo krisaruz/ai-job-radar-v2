@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-16 19:22 | 岗位总数: **118**
+> 更新时间: 2026-11-17 09:02 | 岗位总数: **119**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 23 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 25 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 33 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 34 |
 
 ## 各公司岗位
 
@@ -58,7 +58,7 @@ _大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
-| [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
+| [小米汽车-智能制造-灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 大模型/AI测试 | 北京 | 汽车部 |
 
 ### [小红书](jobs/小红书.md)（7 个岗位）
 
@@ -252,13 +252,14 @@ _AI/Agent产品 6 / Agent评测 2 / 大模型/AI测试 2 / 测试开发(AI方向
 | [千问事业部-千问Go-Agent 垂类产品经理-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100055940003) | AI/Agent产品 | 北京 |  |
 | [千问事业部-用户产品经理-Agent](https://talent.quark.cn/off-campus/position-detail?positionId=100055960003) | AI/Agent产品 | 北京 |  |
 
-### [零一万物](jobs/零一万物.md)（1 个岗位）
+### [零一万物](jobs/零一万物.md)（2 个岗位）
 
-_大模型/AI测试 1_
+_大模型/AI测试 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI 测试工程师](https://01ai.jobs.feishu.cn/index/position/7686751993624807722/detail) | 大模型/AI测试 | 北京 | 互联网 / 电子 / 网游 |
+| [AI产品经理（Agent平台方向）](https://01ai.jobs.feishu.cn/index/position/7665551405742934291/detail) | AI/Agent产品 | 北京 | 产品 / 策划 / 项目 |
 
 ### [面壁智能](jobs/面壁智能.md)（3 个岗位）
 
@@ -276,7 +277,7 @@ _测试开发(AI方向) 1 / AI/Agent产品 1 / Agent评测 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 58 |
+| 北京 | 59 |
 | 深圳 | 17 |
 | 上海 | 12 |
 | 广州 | 4 |
@@ -285,4 +286,4 @@ _测试开发(AI方向) 1 / AI/Agent产品 1 / Agent评测 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-16 19:22。仅供求职参考。*
+*数据自动采集，更新于 2026-11-17 09:02。仅供求职参考。*
