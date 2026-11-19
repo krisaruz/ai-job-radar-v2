@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-19 08:30 | 岗位总数: **118**
+> 更新时间: 2026-11-19 18:09 | 岗位总数: **119**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 23 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 22 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 23 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 37 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 38 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
 
 ## 各公司岗位
 
@@ -50,18 +50,17 @@ _Agent评测 2 / AI/Agent产品 1_
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [小米](jobs/小米.md)（2 个岗位）
+### [小米](jobs/小米.md)（1 个岗位）
 
-_大模型/AI测试 2_
+_大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
-| [小米汽车-智能制造-灵巧手测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7675309469694478643/detail) | 大模型/AI测试 | 北京 | 汽车部 |
 
-### [小红书](jobs/小红书.md)（8 个岗位）
+### [小红书](jobs/小红书.md)（9 个岗位）
 
-_Agent评测 7 / AI/Agent产品 1_
+_Agent评测 7 / AI/Agent产品 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -72,6 +71,7 @@ _Agent评测 7 / AI/Agent产品 1_
 | [Dots-大模型能力评测师](https://job.xiaohongshu.com/social/position/22455) | Agent评测 | 北京 | 大模型 |
 | [【Dots】大模型评测算法工程师](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
+| [Agent工具产品经理（点点训练）](https://job.xiaohongshu.com/social/position/21196) | AI/Agent产品 | 北京 | 产品经理 |
 | [【点点】agent策略产品经理](https://job.xiaohongshu.com/social/position/23144) | AI/Agent产品 | 北京 | 产品经理 |
 
 ### [得物](jobs/得物.md)（1 个岗位）
@@ -216,14 +216,15 @@ _AI/Agent产品 7 / Agent评测 5 / 大模型/AI测试 4 / 测试开发(AI方向
 | [腾讯元宝-大模型策略产品-语音方向](http://careers.tencent.com/jobdesc.html?postId=2101997688525602816) | AI/Agent产品 | 北京 | CSIG |
 | [证券-AI产品经理-Agent方向](http://careers.tencent.com/jobdesc.html?postId=2110653070814916608) | AI/Agent产品 | 深圳 | CDG |
 
-### [莉莉丝](jobs/莉莉丝.md)（3 个岗位）
+### [莉莉丝](jobs/莉莉丝.md)（4 个岗位）
 
-_测试开发(AI方向) 1 / AI/Agent产品 1 / 大模型/AI测试 1_
+_Agent评测 1 / 测试开发(AI方向) 1 / AI/Agent产品 1 / 大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [资深测试工程师（发行方向）](https://lilithgames.jobs.feishu.cn/career/position/7606016773801019694/detail) | 大模型/AI测试 | 上海 | 测试 |
 | [平台测试开发工程师](https://lilithgames.jobs.feishu.cn/career/position/7688674315667261715/detail) | 测试开发(AI方向) | 上海 | 测试 |
+| [游戏评测负责人](https://lilithgames.jobs.feishu.cn/career/position/7709813136144566569/detail) | Agent评测 | 上海 | 战略 / 投资 |
 | [产品经理（活动中台与 AI Agent 工作流）](https://lilithgames.jobs.feishu.cn/career/position/7667872138321266990/detail) | AI/Agent产品 | 上海 | 互联网 / 电子 / 网游 |
 
 ### [阿里巴巴](jobs/阿里巴巴.md)（12 个岗位）
@@ -271,11 +272,11 @@ _测试开发(AI方向) 1 / AI/Agent产品 1_
 | --- | --- |
 | 北京 | 60 |
 | 深圳 | 17 |
-| 上海 | 11 |
+| 上海 | 12 |
 | 广州 | 4 |
 | 杭州 | 4 |
 | Shanghai | 3 |
 
 ---
 
-*数据自动采集，更新于 2026-11-19 08:30。仅供求职参考。*
+*数据自动采集，更新于 2026-11-19 18:09。仅供求职参考。*
