@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-20 08:16 | 岗位总数: **122**
+> 更新时间: 2026-11-20 17:47 | 岗位总数: **121**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -15,7 +15,7 @@
 | 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 23 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 23 |
 | Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 34 |
 
 ## 各公司岗位
 
@@ -58,18 +58,17 @@ _Agent评测 1_
 | --- | --- | --- | --- |
 | [AI评测产品经理（Tako） - TikTok搜索](https://jobs.bytedance.com/experienced/position/7706063120192915765/detail) | Agent评测 |  | 产品 - 产品经理 |
 
-### [小米](jobs/小米.md)（2 个岗位）
+### [小米](jobs/小米.md)（1 个岗位）
 
-_大模型/AI测试 2_
+_大模型/AI测试 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
-| [资深语音测试专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7649982423274670342/detail) | 大模型/AI测试 | 北京 | 集团技术委员会 |
 
-### [小红书](jobs/小红书.md)（9 个岗位）
+### [小红书](jobs/小红书.md)（8 个岗位）
 
-_Agent评测 8 / AI/Agent产品 1_
+_Agent评测 8_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -81,7 +80,6 @@ _Agent评测 8 / AI/Agent产品 1_
 | [【Dots】大模型评测算法工程师](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
 | [资深 AI 评测岗（大模型 / Agent）](https://job.xiaohongshu.com/social/position/23153) | Agent评测 | 北京 | 大模型 |
-| [Agent工具产品经理（点点训练）](https://job.xiaohongshu.com/social/position/21196) | AI/Agent产品 | 北京 | 产品经理 |
 
 ### [得物](jobs/得物.md)（1 个岗位）
 
@@ -236,14 +234,15 @@ _Agent评测 1 / 测试开发(AI方向) 1 / AI/Agent产品 1 / 大模型/AI测�
 | [游戏评测负责人](https://lilithgames.jobs.feishu.cn/career/position/7709813136144566569/detail) | Agent评测 | 上海 | 战略 / 投资 |
 | [产品经理（活动中台与 AI Agent 工作流）](https://lilithgames.jobs.feishu.cn/career/position/7667872138321266990/detail) | AI/Agent产品 | 上海 | 互联网 / 电子 / 网游 |
 
-### [阿里巴巴](jobs/阿里巴巴.md)（12 个岗位）
+### [阿里巴巴](jobs/阿里巴巴.md)（13 个岗位）
 
-_AI/Agent产品 6 / Agent评测 2 / 大模型/AI测试 2 / 测试开发(AI方向) 2_
+_AI/Agent产品 6 / 大模型/AI测试 3 / Agent评测 2 / 测试开发(AI方向) 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [千问事业部-AI应用&Agent测试专家-杭州/上海/深圳](https://talent.quark.cn/off-campus/position-detail?positionId=100010700004) | 大模型/AI测试 | 深圳 |  |
 | [千问事业部-测试Agent&平台开发专家-杭州](https://talent.quark.cn/off-campus/position-detail?positionId=100013260019) | 大模型/AI测试 | 杭州 |  |
+| [千问事业部-近场通信测试专家-杭州/深圳](https://talent.quark.cn/off-campus/position-detail?positionId=100058060003) | 大模型/AI测试 | 深圳 |  |
 | [智元科技-测试开发工程师-广州](https://talent.quark.cn/off-campus/position-detail?positionId=100052580004) | 测试开发(AI方向) | 广州 |  |
 | [智元科技-测试开发工程师-智能助手](https://talent.quark.cn/off-campus/position-detail?positionId=100018600002) | 测试开发(AI方向) | 杭州 |  |
 | [千问事业部-AI agent评测平台产品经理-北京](https://talent.quark.cn/off-campus/position-detail?positionId=100033200001) | Agent评测 | 北京 |  |
@@ -280,8 +279,8 @@ _Agent评测 1 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 62 |
-| 深圳 | 17 |
+| 北京 | 60 |
+| 深圳 | 18 |
 | 上海 | 12 |
 | 广州 | 4 |
 | 杭州 | 4 |
@@ -289,4 +288,4 @@ _Agent评测 1 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-20 08:16。仅供求职参考。*
+*数据自动采集，更新于 2026-11-20 17:47。仅供求职参考。*
