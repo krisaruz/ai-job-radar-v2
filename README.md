@@ -1,6 +1,6 @@
 # AI 岗位雷达
 
-> 更新时间: 2026-11-19 18:09 | 岗位总数: **119**
+> 更新时间: 2026-11-20 08:16 | 岗位总数: **122**
 
 自动追踪大模型测试 / AI测试 / Agent评测 / 测试开发(AI方向) / AI产品 相关岗位。
 
@@ -12,10 +12,10 @@
 
 | 方向 | 说明 | 岗位数 |
 | --- | --- | --- |
-| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 22 |
+| 大模型/AI测试 | 大模型评测、算法测试、AI质量保障 | 23 |
 | 测试开发(AI方向) | AI方向的测试开发、评测平台、自动化框架 | 23 |
-| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 38 |
-| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 36 |
+| Agent评测 | Agent/大模型效果评测、Benchmark建设 | 41 |
+| AI/Agent产品 | AI策略产品、Agent产品、AIGC产品 | 35 |
 
 ## 各公司岗位
 
@@ -50,17 +50,26 @@ _Agent评测 2 / AI/Agent产品 1_
 | [研究院-AI美学评测工程师](https://hr-jobs.sensetime.com/exp/position/7652299407749433642/detail) | Agent评测 | 北京 | 设计 |
 | [Agent产品经理，企业助手](https://hr-jobs.sensetime.com/exp/position/7678707491991882010/detail) | AI/Agent产品 | 上海 | 产品经理 |
 
-### [小米](jobs/小米.md)（1 个岗位）
+### [字节跳动](jobs/字节跳动.md)（1 个岗位）
 
-_大模型/AI测试 1_
+_Agent评测 1_
+
+| 岗位 | 方向 | 城市 | 部门 |
+| --- | --- | --- | --- |
+| [AI评测产品经理（Tako） - TikTok搜索](https://jobs.bytedance.com/experienced/position/7706063120192915765/detail) | Agent评测 |  | 产品 - 产品经理 |
+
+### [小米](jobs/小米.md)（2 个岗位）
+
+_大模型/AI测试 2_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [AI测试工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7688937643912497449/detail) | 大模型/AI测试 | 北京 | 手机部 |
+| [资深语音测试专家](https://xiaomi.jobs.f.mioffice.cn/index/position/7649982423274670342/detail) | 大模型/AI测试 | 北京 | 集团技术委员会 |
 
 ### [小红书](jobs/小红书.md)（9 个岗位）
 
-_Agent评测 7 / AI/Agent产品 2_
+_Agent评测 8 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
@@ -71,8 +80,8 @@ _Agent评测 7 / AI/Agent产品 2_
 | [Dots-大模型能力评测师](https://job.xiaohongshu.com/social/position/22455) | Agent评测 | 北京 | 大模型 |
 | [【Dots】大模型评测算法工程师](https://job.xiaohongshu.com/social/position/21093) | Agent评测 | 北京 | 大模型 |
 | [社区AI评测产品经理](https://job.xiaohongshu.com/social/position/21336) | Agent评测 | 北京 | 产品经理 |
+| [资深 AI 评测岗（大模型 / Agent）](https://job.xiaohongshu.com/social/position/23153) | Agent评测 | 北京 | 大模型 |
 | [Agent工具产品经理（点点训练）](https://job.xiaohongshu.com/social/position/21196) | AI/Agent产品 | 北京 | 产品经理 |
-| [【点点】agent策略产品经理](https://job.xiaohongshu.com/social/position/23144) | AI/Agent产品 | 北京 | 产品经理 |
 
 ### [得物](jobs/得物.md)（1 个岗位）
 
@@ -255,13 +264,14 @@ _大模型/AI测试 1 / AI/Agent产品 1_
 | [AI 测试工程师](https://01ai.jobs.feishu.cn/index/position/7686751993624807722/detail) | 大模型/AI测试 | 北京 | 互联网 / 电子 / 网游 |
 | [AI产品经理（Agent平台方向）](https://01ai.jobs.feishu.cn/index/position/7665551405742934291/detail) | AI/Agent产品 | 北京 | 产品 / 策划 / 项目 |
 
-### [面壁智能](jobs/面壁智能.md)（2 个岗位）
+### [面壁智能](jobs/面壁智能.md)（3 个岗位）
 
-_测试开发(AI方向) 1 / AI/Agent产品 1_
+_Agent评测 1 / 测试开发(AI方向) 1 / AI/Agent产品 1_
 
 | 岗位 | 方向 | 城市 | 部门 |
 | --- | --- | --- | --- |
 | [Agent 测试开发工程师](https://modelbest.jobs.feishu.cn/career/position/7708693067117496617/detail) | 测试开发(AI方向) | 北京 |  |
+| [大模型评测算法工程师](https://modelbest.jobs.feishu.cn/career/position/7691153881972410660/detail) | Agent评测 | 北京 |  |
 | [Agent 客户交付产品经理](https://modelbest.jobs.feishu.cn/career/position/7706460423302252851/detail) | AI/Agent产品 | 北京 |  |
 
 ---
@@ -270,7 +280,7 @@ _测试开发(AI方向) 1 / AI/Agent产品 1_
 
 | 城市 | 岗位数 |
 | --- | --- |
-| 北京 | 60 |
+| 北京 | 62 |
 | 深圳 | 17 |
 | 上海 | 12 |
 | 广州 | 4 |
@@ -279,4 +289,4 @@ _测试开发(AI方向) 1 / AI/Agent产品 1_
 
 ---
 
-*数据自动采集，更新于 2026-11-19 18:09。仅供求职参考。*
+*数据自动采集，更新于 2026-11-20 08:16。仅供求职参考。*
